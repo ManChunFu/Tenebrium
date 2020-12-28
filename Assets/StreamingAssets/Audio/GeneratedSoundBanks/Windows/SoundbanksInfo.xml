@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>E:\Skrivbord\Projects\Team03\NyaPreforce\Project\SpaceGame\SpaceGame_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\Skrivbord\Projects\Team03\NyaPreforce\Project\SpaceGame\SpaceGame_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\Skrivbord\Projects\Team03\NyaPreforce\Project\SpaceGame\Assets\StreamingAssets\Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\Skrivbord\Projects\Team03\NyaPreforce\Project\SpaceGame\SpaceGame_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="13379033" Language="SFX">
+			<ShortName>Ambience_horns_0-001.wav</ShortName>
+			<Path>SFX\Ambience_horns_0-001_AC8767BE.wem</Path>
+		</File>
+		<File Id="54784058" Language="SFX">
+			<ShortName>Electricity-004.wav</ShortName>
+			<Path>SFX\Electricity-004_AB7DA520.wem</Path>
+		</File>
+		<File Id="74128027" Language="SFX">
+			<ShortName>Ambience_Movement_Stereo_0-001.wav</ShortName>
+			<Path>SFX\Ambience_Movement_Stereo_0-001_E7C248A8.wem</Path>
+		</File>
+		<File Id="154373210" Language="SFX">
+			<ShortName>Spaceship Ambience_02.wav</ShortName>
+			<Path>SFX\Spaceship Ambience_02_6454F034.wem</Path>
+		</File>
+		<File Id="169483216" Language="SFX">
+			<ShortName>Alarm_0.wav</ShortName>
+			<Path>SFX\Alarm_0_78D55724.wem</Path>
+		</File>
+		<File Id="187817593" Language="SFX">
+			<ShortName>Electricity-003.wav</ShortName>
+			<Path>SFX\Electricity-003_AB7DA520.wem</Path>
+		</File>
+		<File Id="191350127" Language="SFX">
+			<ShortName>Ambience_Metal.wav</ShortName>
+			<Path>SFX\Ambience_Metal_E90101B3.wem</Path>
+		</File>
+		<File Id="199115460" Language="SFX">
+			<ShortName>Ambience_Movement_Stereo_0-002.wav</ShortName>
+			<Path>SFX\Ambience_Movement_Stereo_0-002_E1DD4FE8.wem</Path>
+		</File>
+		<File Id="208166640" Language="SFX">
+			<ShortName>Ambience_horns_0-004.wav</ShortName>
+			<Path>SFX\Ambience_horns_0-004_0F7505C6.wem</Path>
+		</File>
+		<File Id="245640414" Language="SFX">
+			<ShortName>Ambience_horns_0-005.wav</ShortName>
+			<Path>SFX\Ambience_horns_0-005_765ABC46.wem</Path>
+		</File>
+		<File Id="264226267" Language="SFX">
+			<ShortName>Ambience_horns_0-003.wav</ShortName>
+			<Path>SFX\Ambience_horns_0-003_DEFD0A03.wem</Path>
+		</File>
+		<File Id="310961573" Language="SFX">
+			<ShortName>Spaceship Ambience_04.wav</ShortName>
+			<Path>SFX\Spaceship Ambience_04_699DE8CD.wem</Path>
+		</File>
+		<File Id="338606125" Language="SFX">
+			<ShortName>Ambience_horns_0-002.wav</ShortName>
+			<Path>SFX\Ambience_horns_0-002_96395EAA.wem</Path>
+		</File>
+		<File Id="404543416" Language="SFX">
+			<ShortName>Ambience_Movement_Stereo_0-002.wav</ShortName>
+			<Path>SFX\Ambience_Movement_Stereo_0-002_B3C035AD.wem</Path>
+		</File>
+		<File Id="489526984" Language="SFX">
+			<ShortName>Ambience_Carpet_0.wav</ShortName>
+			<Path>SFX\Ambience_Carpet_0_78D55724.wem</Path>
+		</File>
+		<File Id="508361752" Language="SFX">
+			<ShortName>Ambience_metal_creek_0.wav</ShortName>
+			<Path>SFX\Ambience_metal_creek_0_36B25A72.wem</Path>
+		</File>
+		<File Id="517621349" Language="SFX">
+			<ShortName>Ambience_Movement_Stereo_0-001.wav</ShortName>
+			<Path>SFX\Ambience_Movement_Stereo_0-001_D0CFCAA3.wem</Path>
+		</File>
+		<File Id="614264294" Language="SFX">
+			<ShortName>Alarm.wav</ShortName>
+			<Path>SFX\Alarm_AB7DA520.wem</Path>
+		</File>
+		<File Id="667444147" Language="SFX">
+			<ShortName>Ambience_Metal_Earthquake_0.wav</ShortName>
+			<Path>SFX\Ambience_Metal_Earthquake_0_285E1A36.wem</Path>
+		</File>
+		<File Id="734479414" Language="SFX">
+			<ShortName>Electricity-002.wav</ShortName>
+			<Path>SFX\Electricity-002_AB7DA520.wem</Path>
+		</File>
+		<File Id="785339525" Language="SFX">
+			<ShortName>Ambience_Movement_Stereo_0-003.wav</ShortName>
+			<Path>SFX\Ambience_Movement_Stereo_0-003_AB660562.wem</Path>
+		</File>
+		<File Id="803245758" Language="SFX">
+			<ShortName>Fire.wav</ShortName>
+			<Path>SFX\Fire_AB7DA520.wem</Path>
+		</File>
+		<File Id="813194133" Language="SFX">
+			<ShortName>Ambience_Metal_Earthquake_0.wav</ShortName>
+			<Path>SFX\Ambience_Metal_Earthquake_0_32398E02.wem</Path>
+		</File>
+		<File Id="861861425" Language="SFX">
+			<ShortName>Electricity-001.wav</ShortName>
+			<Path>SFX\Electricity-001_AB7DA520.wem</Path>
+		</File>
+		<File Id="919587089" Language="SFX">
+			<ShortName>Ambience_horns_0-002.wav</ShortName>
+			<Path>SFX\Ambience_horns_0-002_BAB03D63.wem</Path>
+		</File>
+		<File Id="927274402" Language="SFX">
+			<ShortName>Ambience_Texture_1.wav</ShortName>
+			<Path>SFX\Ambience_Texture_1_FD6A80C5.wem</Path>
+		</File>
+		<File Id="988550000" Language="SFX">
+			<ShortName>Ambience_Sub_0.wav</ShortName>
+			<Path>SFX\Ambience_Sub_0_3B8A07E4.wem</Path>
+		</File>
+		<File Id="1007145420" Language="SFX">
+			<ShortName>Ambience_Carpet_1.wav</ShortName>
+			<Path>SFX\Ambience_Carpet_1_69949C00.wem</Path>
+		</File>
+		<File Id="1055118239" Language="SFX">
+			<ShortName>Ambience_horns_0-003.wav</ShortName>
+			<Path>SFX\Ambience_horns_0-003_9A96A1A6.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="348963605" Name="Reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Reverb"/>
+				<AuxBus Id="357718954" Name="Delay" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Delay"/>
+			</IncludedAuxBusses>
+			<GameParameters>
+				<GameParameter Id="414646191" Name="VoiceVolume" ObjectPath="\Game Parameters\Default Work Unit\Options\VoiceVolume"/>
+				<GameParameter Id="640585335" Name="EffectsVolume" ObjectPath="\Game Parameters\Default Work Unit\Options\EffectsVolume"/>
+				<GameParameter Id="2346531308" Name="MusicVolume" ObjectPath="\Game Parameters\Default Work Unit\Options\MusicVolume"/>
+				<GameParameter Id="2918011349" Name="MasterVolume" ObjectPath="\Game Parameters\Default Work Unit\Options\MasterVolume"/>
+				<GameParameter Id="3546521921" Name="AmbientVolume" ObjectPath="\Game Parameters\Default Work Unit\Options\AmbientVolume"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="4056684167" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
+			<ShortName>Master</ShortName>
+			<Path>Master.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3379670421" Name="_0_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_0_AI_VO" DurationType="OneShot" DurationMin="6.336956" DurationMax="6.336956">
+					<IncludedMemoryFiles>
+						<File Id="1069893203" Language="SFX">
+							<ShortName>VO_AI-001.wav</ShortName>
+							<Path>SFX\VO_AI-001_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2753910942" Name="_10_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_10_AI_VO" DurationType="OneShot" DurationMin="4.579914" DurationMax="4.579914">
+					<IncludedMemoryFiles>
+						<File Id="99275774" Language="SFX">
+							<ShortName>VO_AI-011.wav</ShortName>
+							<Path>SFX\VO_AI-011_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="326212183" Name="_11_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_11_AI_VO" DurationType="OneShot" DurationMin="7.449016" DurationMax="7.449016">
+					<IncludedMemoryFiles>
+						<File Id="846012291" Language="SFX">
+							<ShortName>VO_AI-012.wav</ShortName>
+							<Path>SFX\VO_AI-012_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2990511132" Name="_12_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_12_AI_VO" DurationType="OneShot" DurationMin="9.636956" DurationMax="9.636956">
+					<IncludedMemoryFiles>
+						<File Id="651752546" Language="SFX">
+							<ShortName>VO_AI-013.wav</ShortName>
+							<Path>SFX\VO_AI-013_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2471890165" Name="_13_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_13_AI_VO" DurationType="OneShot" DurationMin="6.849845" DurationMax="6.849845">
+					<IncludedMemoryFiles>
+						<File Id="479471648" Language="SFX">
+							<ShortName>VO_AI-014.wav</ShortName>
+							<Path>SFX\VO_AI-014_E8943904.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="592875810" Name="_14_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_14_AI_VO" DurationType="OneShot" DurationMin="3.244527" DurationMax="3.244527">
+					<IncludedMemoryFiles>
+						<File Id="938835946" Language="SFX">
+							<ShortName>VO_AI-015.wav</ShortName>
+							<Path>SFX\VO_AI-015_57168C10.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4264540971" Name="_15_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_15_AI_VO" DurationType="OneShot" DurationMin="10.773341" DurationMax="10.773341">
+					<IncludedMemoryFiles>
+						<File Id="1019769015" Language="SFX">
+							<ShortName>VO_AI-016.wav</ShortName>
+							<Path>SFX\VO_AI-016_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3465258384" Name="_16_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_16_AI_VO" DurationType="OneShot" DurationMin="7.547690" DurationMax="7.547690">
+					<IncludedMemoryFiles>
+						<File Id="66101115" Language="SFX">
+							<ShortName>VO_AI-017.wav</ShortName>
+							<Path>SFX\VO_AI-017_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3277776185" Name="_17_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_17_AI_VO" DurationType="OneShot" DurationMin="0.691899" DurationMax="0.691899">
+					<IncludedMemoryFiles>
+						<File Id="639760512" Language="SFX">
+							<ShortName>VO_AI-018.wav</ShortName>
+							<Path>SFX\VO_AI-018_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3002466363" Name="_18_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_18_LiuYang_VO" DurationType="OneShot" DurationMin="8.712366" DurationMax="8.712366">
+					<IncludedMemoryFiles>
+						<File Id="626337888" Language="SFX">
+							<ShortName>VO_LuiYang-019.wav</ShortName>
+							<Path>SFX\VO_LuiYang-019_37611321.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1328132924" Name="_19_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_19_LiuYang_VO" DurationType="OneShot" DurationMin="17.695026" DurationMax="17.695026">
+					<IncludedMemoryFiles>
+						<File Id="261247381" Language="SFX">
+							<ShortName>VO_LuiYang-020.wav</ShortName>
+							<Path>SFX\VO_LuiYang-020_C05BBD68.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1349042876" Name="_1_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_1_AI_VO" DurationType="OneShot" DurationMin="3.107293" DurationMax="3.107293">
+					<IncludedMemoryFiles>
+						<File Id="485330235" Language="SFX">
+							<ShortName>VO_AI-002.wav</ShortName>
+							<Path>SFX\VO_AI-002_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1574354619" Name="_20_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_20_AI_VO" DurationType="OneShot" DurationMin="7.304643" DurationMax="7.304643">
+					<IncludedMemoryFiles>
+						<File Id="311406619" Language="SFX">
+							<ShortName>VO_AI-021.wav</ShortName>
+							<Path>SFX\VO_AI-021_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3650674802" Name="_21_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_21_AI_VO" DurationType="OneShot" DurationMin="12.428169" DurationMax="12.428169">
+					<IncludedMemoryFiles>
+						<File Id="105799465" Language="SFX">
+							<ShortName>VO_AI-022.wav</ShortName>
+							<Path>SFX\VO_AI-022_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3217841545" Name="_22_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_22_AI_VO" DurationType="OneShot" DurationMin="4.668147" DurationMax="4.668147">
+					<IncludedMemoryFiles>
+						<File Id="189121878" Language="SFX">
+							<ShortName>VO_AI-023.wav</ShortName>
+							<Path>SFX\VO_AI-023_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1779688224" Name="_23_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_23_AI_VO" DurationType="OneShot" DurationMin="8.632360" DurationMax="8.632360">
+					<IncludedMemoryFiles>
+						<File Id="669028367" Language="SFX">
+							<ShortName>VO_AI-024.wav</ShortName>
+							<Path>SFX\VO_AI-024_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2142830759" Name="_24_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_24_AI_VO" DurationType="OneShot" DurationMin="4.542415" DurationMax="4.542415">
+					<IncludedMemoryFiles>
+						<File Id="606295765" Language="SFX">
+							<ShortName>VO_AI-025.wav</ShortName>
+							<Path>SFX\VO_AI-025_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1562536494" Name="_25_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_25_AI_VO" DurationType="OneShot" DurationMin="6.390028" DurationMax="6.390028">
+					<IncludedMemoryFiles>
+						<File Id="464764324" Language="SFX">
+							<ShortName>VO_AI-026.wav</ShortName>
+							<Path>SFX\VO_AI-026_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2224057014" Name="_26_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_26_LiuYang_VO" DurationType="OneShot" DurationMin="4.448098" DurationMax="4.448098">
+					<IncludedMemoryFiles>
+						<File Id="819867161" Language="SFX">
+							<ShortName>VO_LuiYang-027.wav</ShortName>
+							<Path>SFX\VO_LuiYang-027_52A4E4F3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3894874373" Name="_27_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_27_LiuYang_VO" DurationType="OneShot" DurationMin="14.955997" DurationMax="14.955997">
+					<IncludedMemoryFiles>
+						<File Id="423371379" Language="SFX">
+							<ShortName>VO_LuiYang-028.wav</ShortName>
+							<Path>SFX\VO_LuiYang-028_7AC51C6C.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1743192504" Name="_28_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_28_LiuYang_VO" DurationType="OneShot" DurationMin="4.468958" DurationMax="4.468958">
+					<IncludedMemoryFiles>
+						<File Id="213962862" Language="SFX">
+							<ShortName>VO_LuiYang-029.wav</ShortName>
+							<Path>SFX\VO_LuiYang-029_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="216292295" Name="_29_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_29_LiuYang_VO" DurationType="OneShot" DurationMin="2.311182" DurationMax="2.311182">
+					<IncludedMemoryFiles>
+						<File Id="144720605" Language="SFX">
+							<ShortName>VO_LuiYang-030.wav</ShortName>
+							<Path>SFX\VO_LuiYang-030_39E64CC5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4146396151" Name="_2_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_2_AI_VO" DurationType="OneShot" DurationMin="4.673967" DurationMax="4.673967">
+					<IncludedMemoryFiles>
+						<File Id="630909106" Language="SFX">
+							<ShortName>VO_AI-003.wav</ShortName>
+							<Path>SFX\VO_AI-003_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="774332868" Name="_30_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_30_AI_VO" DurationType="OneShot" DurationMin="10.495979" DurationMax="10.495979">
+					<IncludedMemoryFiles>
+						<File Id="631228038" Language="SFX">
+							<ShortName>VO_AI-031.wav</ShortName>
+							<Path>SFX\VO_AI-031_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1902570877" Name="_31_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_31_AI_VO" DurationType="OneShot" DurationMin="12.267258" DurationMax="12.267258">
+					<IncludedMemoryFiles>
+						<File Id="348532670" Language="SFX">
+							<ShortName>VO_AI-032.wav</ShortName>
+							<Path>SFX\VO_AI-032_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1015091814" Name="_32_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_32_AI_VO" DurationType="OneShot" DurationMin="5.815720" DurationMax="5.815720">
+					<IncludedMemoryFiles>
+						<File Id="171373093" Language="SFX">
+							<ShortName>VO_AI-033.wav</ShortName>
+							<Path>SFX\VO_AI-033_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2505285631" Name="_33_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_33_AI_VO" DurationType="OneShot" DurationMin="10.451244" DurationMax="10.451244">
+					<IncludedMemoryFiles>
+						<File Id="253357640" Language="SFX">
+							<ShortName>VO_AI-034.wav</ShortName>
+							<Path>SFX\VO_AI-034_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3463954040" Name="_34_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_34_AI_VO" DurationType="OneShot" DurationMin="5.685053" DurationMax="5.685053">
+					<IncludedMemoryFiles>
+						<File Id="676443963" Language="SFX">
+							<ShortName>VO_AI-035.wav</ShortName>
+							<Path>SFX\VO_AI-035_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3070114209" Name="_35_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_35_AI_VO" DurationType="OneShot" DurationMin="10.902003" DurationMax="10.902003">
+					<IncludedMemoryFiles>
+						<File Id="799795680" Language="SFX">
+							<ShortName>VO_AI-036.wav</ShortName>
+							<Path>SFX\VO_AI-036_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1488039946" Name="_36_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_36_AI_VO" DurationType="OneShot" DurationMin="18.235966" DurationMax="18.235966">
+					<IncludedMemoryFiles>
+						<File Id="981361862" Language="SFX">
+							<ShortName>VO_AI-037.wav</ShortName>
+							<Path>SFX\VO_AI-037_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="639742547" Name="_37_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_37_AI_VO" DurationType="OneShot" DurationMin="7.289718" DurationMax="7.289718">
+					<IncludedMemoryFiles>
+						<File Id="782398870" Language="SFX">
+							<ShortName>VO_AI-038.wav</ShortName>
+							<Path>SFX\VO_AI-038_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3594300405" Name="_38_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_38_LiuYang_VO" DurationType="OneShot" DurationMin="13.356192" DurationMax="13.356192">
+					<IncludedMemoryFiles>
+						<File Id="13933960" Language="SFX">
+							<ShortName>VO_LuiYang-039.wav</ShortName>
+							<Path>SFX\VO_LuiYang-039_1FC6FC42.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="442823253" Name="_39_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_39_AI_VO" DurationType="OneShot" DurationMin="10.483926" DurationMax="10.483926">
+					<IncludedMemoryFiles>
+						<File Id="645056475" Language="SFX">
+							<ShortName>VO_AI-040.wav</ShortName>
+							<Path>SFX\VO_AI-040_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2919257662" Name="_3_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_3_AI_VO" DurationType="OneShot" DurationMin="5.161222" DurationMax="5.161222">
+					<IncludedMemoryFiles>
+						<File Id="70285200" Language="SFX">
+							<ShortName>VO_AI-004.wav</ShortName>
+							<Path>SFX\VO_AI-004_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1597254897" Name="_40_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_40_AI_VO" DurationType="OneShot" DurationMin="3.332781" DurationMax="3.332781">
+					<IncludedMemoryFiles>
+						<File Id="423214571" Language="SFX">
+							<ShortName>VO_AI-041.wav</ShortName>
+							<Path>SFX\VO_AI-041_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="506410249" Name="_41_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_41_LiuYang_VO" DurationType="OneShot" DurationMin="16.342474" DurationMax="16.342474">
+					<IncludedMemoryFiles>
+						<File Id="144026983" Language="SFX">
+							<ShortName>VO_LuiYang-042.wav</ShortName>
+							<Path>SFX\VO_LuiYang-042_041F18B1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3547202328" Name="_42_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_42_LiuYang_VO" DurationType="OneShot" DurationMin="6.227354" DurationMax="6.227354">
+					<IncludedMemoryFiles>
+						<File Id="608858035" Language="SFX">
+							<ShortName>VO_LuiYang-043.wav</ShortName>
+							<Path>SFX\VO_LuiYang-043_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="662024602" Name="_43_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_43_AI_VO" DurationType="OneShot" DurationMin="14.911148" DurationMax="14.911148">
+					<IncludedMemoryFiles>
+						<File Id="529248427" Language="SFX">
+							<ShortName>VO_AI-044.wav</ShortName>
+							<Path>SFX\VO_AI-044_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2755642910" Name="_44_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_44_LiuYang_VO" DurationType="OneShot" DurationMin="7.502316" DurationMax="7.502316">
+					<IncludedMemoryFiles>
+						<File Id="442869781" Language="SFX">
+							<ShortName>VO_LuiYang-045.wav</ShortName>
+							<Path>SFX\VO_LuiYang-045_A303CE0A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3994303700" Name="_45_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_45_AI_VO" DurationType="OneShot" DurationMin="8.074609" DurationMax="8.074609">
+					<IncludedMemoryFiles>
+						<File Id="966797751" Language="SFX">
+							<ShortName>VO_AI-046.wav</ShortName>
+							<Path>SFX\VO_AI-046_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="793120847" Name="_46_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_46_AI_VO" DurationType="OneShot" DurationMin="8.154857" DurationMax="8.154857">
+					<IncludedMemoryFiles>
+						<File Id="274421739" Language="SFX">
+							<ShortName>VO_AI-047.wav</ShortName>
+							<Path>SFX\VO_AI-047_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3321502731" Name="_47_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_47_LiuYang_VO" DurationType="OneShot" DurationMin="7.095170" DurationMax="7.095170">
+					<IncludedMemoryFiles>
+						<File Id="331557887" Language="SFX">
+							<ShortName>VO_LuiYang-048.wav</ShortName>
+							<Path>SFX\VO_LuiYang-048_5582A2C4.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1184529250" Name="_48_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_48_LiuYang_VO" DurationType="OneShot" DurationMin="3.357022" DurationMax="3.357022">
+					<IncludedMemoryFiles>
+						<File Id="871199179" Language="SFX">
+							<ShortName>VO_LuiYang-049.wav</ShortName>
+							<Path>SFX\VO_LuiYang-049_82F1433D.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="489175489" Name="_49_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_49_LiuYang_VO" DurationType="OneShot" DurationMin="8.609581" DurationMax="8.609581">
+					<IncludedMemoryFiles>
+						<File Id="165614486" Language="SFX">
+							<ShortName>VO_LuiYang-050.wav</ShortName>
+							<Path>SFX\VO_LuiYang-050_006E7489.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3443226073" Name="_4_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_4_AI_VO" DurationType="OneShot" DurationMin="5.904838" DurationMax="5.904838">
+					<IncludedMemoryFiles>
+						<File Id="603138262" Language="SFX">
+							<ShortName>VO_AI-005.wav</ShortName>
+							<Path>SFX\VO_AI-005_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4096795114" Name="_50_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_50_AI_VO" DurationType="OneShot" DurationMin="6.829068" DurationMax="6.829068">
+					<IncludedMemoryFiles>
+						<File Id="395736154" Language="SFX">
+							<ShortName>VO_AI-051.wav</ShortName>
+							<Path>SFX\VO_AI-051_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3909415859" Name="_51_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_51_AI_VO" DurationType="OneShot" DurationMin="8.271013" DurationMax="8.271013">
+					<IncludedMemoryFiles>
+						<File Id="64908726" Language="SFX">
+							<ShortName>VO_AI-052.wav</ShortName>
+							<Path>SFX\VO_AI-052_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2397083352" Name="_52_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_52_AI_VO" DurationType="OneShot" DurationMin="6.512733" DurationMax="6.512733">
+					<IncludedMemoryFiles>
+						<File Id="1033317526" Language="SFX">
+							<ShortName>VO_AI-053.wav</ShortName>
+							<Path>SFX\VO_AI-053_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4190399873" Name="_53_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_53_AI_VO" DurationType="OneShot" DurationMin="5.389522" DurationMax="5.389522">
+					<IncludedMemoryFiles>
+						<File Id="800340951" Language="SFX">
+							<ShortName>VO_AI-054.wav</ShortName>
+							<Path>SFX\VO_AI-054_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1393046854" Name="_54_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_54_AI_VO" DurationType="OneShot" DurationMin="6.168926" DurationMax="6.168926">
+					<IncludedMemoryFiles>
+						<File Id="18730992" Language="SFX">
+							<ShortName>VO_AI-055.wav</ShortName>
+							<Path>SFX\VO_AI-055_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2625991391" Name="_55_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_55_AI_VO" DurationType="OneShot" DurationMin="6.933897" DurationMax="6.933897">
+					<IncludedMemoryFiles>
+						<File Id="96156861" Language="SFX">
+							<ShortName>VO_AI-056.wav</ShortName>
+							<Path>SFX\VO_AI-056_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3362402596" Name="_56_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_56_AI_VO" DurationType="OneShot" DurationMin="4.915638" DurationMax="4.915638">
+					<IncludedMemoryFiles>
+						<File Id="915232561" Language="SFX">
+							<ShortName>VO_AI-057.wav</ShortName>
+							<Path>SFX\VO_AI-057_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="195570141" Name="_57_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_57_AI_VO" DurationType="OneShot" DurationMin="5.036041" DurationMax="5.036041">
+					<IncludedMemoryFiles>
+						<File Id="365583775" Language="SFX">
+							<ShortName>VO_AI-058.wav</ShortName>
+							<Path>SFX\VO_AI-058_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1388339810" Name="_58_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_58_AI_VO" DurationType="OneShot" DurationMin="3.065153" DurationMax="3.065153">
+					<IncludedMemoryFiles>
+						<File Id="73224408" Language="SFX">
+							<ShortName>VO_AI-059.wav</ShortName>
+							<Path>SFX\VO_AI-059_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="620709504" Name="_59_LiuYang_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_59_LiuYang_VO" DurationType="OneShot" DurationMin="7.163072" DurationMax="7.163072">
+					<IncludedMemoryFiles>
+						<File Id="186465932" Language="SFX">
+							<ShortName>Please Adam 1.wav</ShortName>
+							<Path>SFX\Please Adam 1_BDFAAD7D.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="738886832" Name="_5_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_5_AI_VO" DurationType="OneShot" DurationMin="5.193235" DurationMax="5.193235">
+					<IncludedMemoryFiles>
+						<File Id="343052516" Language="SFX">
+							<ShortName>VO_AI-006.wav</ShortName>
+							<Path>SFX\VO_AI-006_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2148204663" Name="_60_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_60_AI_VO" DurationType="OneShot" DurationMin="3.145637" DurationMax="3.145637">
+					<IncludedMemoryFiles>
+						<File Id="640100070" Language="SFX">
+							<ShortName>VO_AI-014.wav</ShortName>
+							<Path>SFX\VO_AI-014_4FFD74E1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="921066174" Name="_61_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_61_AI_VO" DurationType="OneShot" DurationMin="2.510705" DurationMax="2.510705">
+					<IncludedMemoryFiles>
+						<File Id="777774994" Language="SFX">
+							<ShortName>VO_AI-062.wav</ShortName>
+							<Path>SFX\VO_AI-062_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1381478933" Name="_62_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_62_AI_VO" DurationType="OneShot" DurationMin="1.009808" DurationMax="1.009808">
+					<IncludedMemoryFiles>
+						<File Id="280135956" Language="SFX">
+							<ShortName>VO_AI-063.wav</ShortName>
+							<Path>SFX\VO_AI-063_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3645818684" Name="_63_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_63_AI_VO" DurationType="OneShot" DurationMin="4.249263" DurationMax="4.249263">
+					<IncludedMemoryFiles>
+						<File Id="1018424638" Language="SFX">
+							<ShortName>VO_AI-064.wav</ShortName>
+							<Path>SFX\VO_AI-064_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2411011019" Name="_64_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_64_AI_VO" DurationType="OneShot" DurationMin="2.765630" DurationMax="2.765630">
+					<IncludedMemoryFiles>
+						<File Id="192505577" Language="SFX">
+							<ShortName>VO_AI-065.wav</ShortName>
+							<Path>SFX\VO_AI-065_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2630644034" Name="_65_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_65_AI_VO" DurationType="OneShot" DurationMin="0.903858" DurationMax="0.903858">
+					<IncludedMemoryFiles>
+						<File Id="125911112" Language="SFX">
+							<ShortName>VO_AI-066.wav</ShortName>
+							<Path>SFX\VO_AI-066_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1445034585" Name="_66_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_66_AI_VO" DurationType="OneShot" DurationMin="3.948462" DurationMax="3.948462">
+					<IncludedMemoryFiles>
+						<File Id="106654834" Language="SFX">
+							<ShortName>VO_AI-067.wav</ShortName>
+							<Path>SFX\VO_AI-067_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="114235211" Name="_6_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_6_AI_VO" DurationType="OneShot" DurationMin="1.982215" DurationMax="1.982215">
+					<IncludedMemoryFiles>
+						<File Id="425386694" Language="SFX">
+							<ShortName>VO_AI-007.wav</ShortName>
+							<Path>SFX\VO_AI-007_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="333868226" Name="_7_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_7_AI_VO" DurationType="OneShot" DurationMin="7.703331" DurationMax="7.703331">
+					<IncludedMemoryFiles>
+						<File Id="548552107" Language="SFX">
+							<ShortName>VO_AI-008.wav</ShortName>
+							<Path>SFX\VO_AI-008_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="585924285" Name="_8_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_8_AI_VO" DurationType="OneShot" DurationMin="2.912796" DurationMax="2.912796">
+					<IncludedMemoryFiles>
+						<File Id="70139833" Language="SFX">
+							<ShortName>VO_AI-009.wav</ShortName>
+							<Path>SFX\VO_AI-009_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3711180036" Name="_9_AI_VO" ObjectPath="\Events\Default Work Unit\Master\VO\_9_AI_VO" DurationType="OneShot" DurationMin="5.668692" DurationMax="5.668692">
+					<IncludedMemoryFiles>
+						<File Id="495492369" Language="SFX">
+							<ShortName>VO_AI-010.wav</ShortName>
+							<Path>SFX\VO_AI-010_BD07E8F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3901468890" Name="AirLock" ObjectPath="\Events\Default Work Unit\Master\SFX\Effects\AirLock" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="12.627604" DurationMax="12.627604">
+					<IncludedMemoryFiles>
+						<File Id="124681199" Language="SFX">
+							<ShortName>AirRelease-003.wav</ShortName>
+							<Path>SFX\AirRelease-003_182EC05C.wem</Path>
+						</File>
+						<File Id="859119845" Language="SFX">
+							<ShortName>Airlock_02.wav</ShortName>
+							<Path>SFX\Airlock_02_8E04161C.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="855317084" Name="Alarm" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\Alarm" MaxAttenuation="50.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="614264294" Language="SFX">
+							<ShortName>Alarm.wav</ShortName>
+							<Path>SFX\Alarm_AB7DA520.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\Master\Ambience\Ambience" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="13379033" Language="SFX">
+							<ShortName>Ambience_horns_0-001.wav</ShortName>
+							<Path>SFX\Ambience_horns_0-001_AC8767BE.wem</Path>
+						</File>
+						<File Id="74128027" Language="SFX">
+							<ShortName>Ambience_Movement_Stereo_0-001.wav</ShortName>
+							<Path>SFX\Ambience_Movement_Stereo_0-001_E7C248A8.wem</Path>
+						</File>
+						<File Id="154373210" Language="SFX">
+							<ShortName>Spaceship Ambience_02.wav</ShortName>
+							<Path>SFX\Spaceship Ambience_02_6454F034.wem</Path>
+						</File>
+						<File Id="169483216" Language="SFX">
+							<ShortName>Alarm_0.wav</ShortName>
+							<Path>SFX\Alarm_0_78D55724.wem</Path>
+						</File>
+						<File Id="191350127" Language="SFX">
+							<ShortName>Ambience_Metal.wav</ShortName>
+							<Path>SFX\Ambience_Metal_E90101B3.wem</Path>
+						</File>
+						<File Id="199115460" Language="SFX">
+							<ShortName>Ambience_Movement_Stereo_0-002.wav</ShortName>
+							<Path>SFX\Ambience_Movement_Stereo_0-002_E1DD4FE8.wem</Path>
+						</File>
+						<File Id="208166640" Language="SFX">
+							<ShortName>Ambience_horns_0-004.wav</ShortName>
+							<Path>SFX\Ambience_horns_0-004_0F7505C6.wem</Path>
+						</File>
+						<File Id="245640414" Language="SFX">
+							<ShortName>Ambience_horns_0-005.wav</ShortName>
+							<Path>SFX\Ambience_horns_0-005_765ABC46.wem</Path>
+						</File>
+						<File Id="264226267" Language="SFX">
+							<ShortName>Ambience_horns_0-003.wav</ShortName>
+							<Path>SFX\Ambience_horns_0-003_DEFD0A03.wem</Path>
+						</File>
+						<File Id="338606125" Language="SFX">
+							<ShortName>Ambience_horns_0-002.wav</ShortName>
+							<Path>SFX\Ambience_horns_0-002_96395EAA.wem</Path>
+						</File>
+						<File Id="404543416" Language="SFX">
+							<ShortName>Ambience_Movement_Stereo_0-002.wav</ShortName>
+							<Path>SFX\Ambience_Movement_Stereo_0-002_B3C035AD.wem</Path>
+						</File>
+						<File Id="489526984" Language="SFX">
+							<ShortName>Ambience_Carpet_0.wav</ShortName>
+							<Path>SFX\Ambience_Carpet_0_78D55724.wem</Path>
+						</File>
+						<File Id="508361752" Language="SFX">
+							<ShortName>Ambience_metal_creek_0.wav</ShortName>
+							<Path>SFX\Ambience_metal_creek_0_36B25A72.wem</Path>
+						</File>
+						<File Id="517621349" Language="SFX">
+							<ShortName>Ambience_Movement_Stereo_0-001.wav</ShortName>
+							<Path>SFX\Ambience_Movement_Stereo_0-001_D0CFCAA3.wem</Path>
+						</File>
+						<File Id="667444147" Language="SFX">
+							<ShortName>Ambience_Metal_Earthquake_0.wav</ShortName>
+							<Path>SFX\Ambience_Metal_Earthquake_0_285E1A36.wem</Path>
+						</File>
+						<File Id="785339525" Language="SFX">
+							<ShortName>Ambience_Movement_Stereo_0-003.wav</ShortName>
+							<Path>SFX\Ambience_Movement_Stereo_0-003_AB660562.wem</Path>
+						</File>
+						<File Id="813194133" Language="SFX">
+							<ShortName>Ambience_Metal_Earthquake_0.wav</ShortName>
+							<Path>SFX\Ambience_Metal_Earthquake_0_32398E02.wem</Path>
+						</File>
+						<File Id="919587089" Language="SFX">
+							<ShortName>Ambience_horns_0-002.wav</ShortName>
+							<Path>SFX\Ambience_horns_0-002_BAB03D63.wem</Path>
+						</File>
+						<File Id="927274402" Language="SFX">
+							<ShortName>Ambience_Texture_1.wav</ShortName>
+							<Path>SFX\Ambience_Texture_1_FD6A80C5.wem</Path>
+						</File>
+						<File Id="988550000" Language="SFX">
+							<ShortName>Ambience_Sub_0.wav</ShortName>
+							<Path>SFX\Ambience_Sub_0_3B8A07E4.wem</Path>
+						</File>
+						<File Id="1007145420" Language="SFX">
+							<ShortName>Ambience_Carpet_1.wav</ShortName>
+							<Path>SFX\Ambience_Carpet_1_69949C00.wem</Path>
+						</File>
+						<File Id="1055118239" Language="SFX">
+							<ShortName>Ambience_horns_0-003.wav</ShortName>
+							<Path>SFX\Ambience_horns_0-003_9A96A1A6.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="454788014" Language="SFX">
+							<ShortName>AirRelease-001.wav</ShortName>
+							<Path>SFX\AirRelease-001_3138B09A.wem</Path>
+						</File>
+						<File Id="896612536" Language="SFX">
+							<ShortName>AirRelease-003.wav</ShortName>
+							<Path>SFX\AirRelease-003_3138B09A.wem</Path>
+						</File>
+						<File Id="1043101874" Language="SFX">
+							<ShortName>AirRelease-002.wav</ShortName>
+							<Path>SFX\AirRelease-002_52987343.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{1E33A914-1789-4856-BE3C-2C6BB07502B8}">
+							<Media>
+								<File Id="1007145420"/>
+								<File Id="988550000"/>
+								<File Id="154373210"/>
+								<File Id="404543416"/>
+								<File Id="517621349"/>
+								<File Id="191350127"/>
+								<File Id="508361752"/>
+								<File Id="667444147"/>
+								<File Id="454788014"/>
+								<File Id="1043101874"/>
+								<File Id="896612536"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1E33A914-1789-4856-BE3C-2C6BB07502B8}">
+							<Media>
+								<File Id="169483216"/>
+								<File Id="489526984"/>
+								<File Id="191350127"/>
+								<File Id="508361752"/>
+								<File Id="667444147"/>
+								<File Id="919587089"/>
+								<File Id="264226267"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{77422C26-011A-4AC0-8031-6B327FA0D1B5}">
+							<Media>
+								<File Id="927274402"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{77422C26-011A-4AC0-8031-6B327FA0D1B5}">
+							<Media>
+								<File Id="813194133"/>
+								<File Id="1055118239"/>
+								<File Id="245640414"/>
+								<File Id="13379033"/>
+								<File Id="208166640"/>
+								<File Id="338606125"/>
+								<File Id="199115460"/>
+								<File Id="74128027"/>
+								<File Id="785339525"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="289505868" Name="ButtonPressSuccessful" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\ButtonPressSuccessful" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.893659" DurationMax="0.893659">
+					<IncludedMemoryFiles>
+						<File Id="591482389" Language="SFX">
+							<ShortName>Door_Beep.wav</ShortName>
+							<Path>SFX\Door_Beep_C953ACBF.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3599161817" Name="ButtonPressUnsuccessful" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\ButtonPressUnsuccessful" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.356295" DurationMax="0.356295">
+					<IncludedMemoryFiles>
+						<File Id="464531743" Language="SFX">
+							<ShortName>Door_Beep.wav</ShortName>
+							<Path>SFX\Door_Beep_F808E7E4.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1584507803" Name="Click" ObjectPath="\Events\Default Work Unit\Master\UI\Click" DurationType="OneShot" DurationMin="0.615852" DurationMax="0.615852">
+					<IncludedMemoryFiles>
+						<File Id="49991041" Language="SFX">
+							<ShortName>Click_07.wav</ShortName>
+							<Path>SFX\Click_07_29D97AC1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="699061410" Name="ComputerBeep" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\ComputerBeep" MaxAttenuation="28.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="544943451" Language="SFX">
+							<ShortName>Computer_beep_0.wav</ShortName>
+							<Path>SFX\Computer_beep_0_AB7DA520.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3091114887" Name="Cryopod" ObjectPath="\Events\Default Work Unit\Master\SFX\Effects\Cryopod" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="14.197460" DurationMax="14.197460">
+					<IncludedMemoryFiles>
+						<File Id="47788768" Language="SFX">
+							<ShortName>Airlock_02.wav</ShortName>
+							<Path>SFX\Airlock_02_3138B09A.wem</Path>
+						</File>
+						<File Id="145528421" Language="SFX">
+							<ShortName>AirRelease-003.wav</ShortName>
+							<Path>SFX\AirRelease-003_9946007C.wem</Path>
+						</File>
+						<File Id="632631985" Language="SFX">
+							<ShortName>Cryopod_01.wav</ShortName>
+							<Path>SFX\Cryopod_01_3138B09A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4082835248" Name="DicontaminationChamber" ObjectPath="\Events\Default Work Unit\Master\SFX\Effects\DicontaminationChamber" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="16.855827" DurationMax="16.855827">
+					<IncludedMemoryFiles>
+						<File Id="47788768" Language="SFX">
+							<ShortName>Airlock_02.wav</ShortName>
+							<Path>SFX\Airlock_02_3138B09A.wem</Path>
+						</File>
+						<File Id="145528421" Language="SFX">
+							<ShortName>AirRelease-003.wav</ShortName>
+							<Path>SFX\AirRelease-003_9946007C.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1507893381" Name="DogDie" ObjectPath="\Events\Default Work Unit\Master\SFX\Charactrers\DogDie" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="4.765354" DurationMax="4.765354">
+					<IncludedMemoryFiles>
+						<File Id="1038191129" Language="SFX">
+							<ShortName>Dog_Dying_04.wav</ShortName>
+							<Path>SFX\Dog_Dying_04_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="251210461" Name="DogHappy" ObjectPath="\Events\Default Work Unit\Master\SFX\Charactrers\DogHappy" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.404821" DurationMax="0.918646">
+					<IncludedMemoryFiles>
+						<File Id="45351010" Language="SFX">
+							<ShortName>Dog_RESA_Happy-002.wav</ShortName>
+							<Path>SFX\Dog_RESA_Happy-002_D5AB5C56.wem</Path>
+						</File>
+						<File Id="175342826" Language="SFX">
+							<ShortName>Dog_RESA_Happy-006.wav</ShortName>
+							<Path>SFX\Dog_RESA_Happy-006_D5AB5C56.wem</Path>
+						</File>
+						<File Id="240754344" Language="SFX">
+							<ShortName>Dog_RESA_Happy-007.wav</ShortName>
+							<Path>SFX\Dog_RESA_Happy-007_D5AB5C56.wem</Path>
+						</File>
+						<File Id="287560974" Language="SFX">
+							<ShortName>Dog_RESA_Happy-001.wav</ShortName>
+							<Path>SFX\Dog_RESA_Happy-001_D5AB5C56.wem</Path>
+						</File>
+						<File Id="505537165" Language="SFX">
+							<ShortName>Dog_RESA_Happy-005.wav</ShortName>
+							<Path>SFX\Dog_RESA_Happy-005_D5AB5C56.wem</Path>
+						</File>
+						<File Id="510917625" Language="SFX">
+							<ShortName>Dog_RESA_Happy-003.wav</ShortName>
+							<Path>SFX\Dog_RESA_Happy-003_D5AB5C56.wem</Path>
+						</File>
+						<File Id="561628056" Language="SFX">
+							<ShortName>Dog_RESA_Happy-004.wav</ShortName>
+							<Path>SFX\Dog_RESA_Happy-004_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3383375805" Name="DogHover" ObjectPath="\Events\Default Work Unit\Master\SFX\Charactrers\DogHover" MaxAttenuation="28.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="209693110" Language="SFX">
+							<ShortName>Dog_Hover_02.wav</ShortName>
+							<Path>SFX\Dog_Hover_02_AB7DA520.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3351631706" Name="DogMovement" ObjectPath="\Events\Default Work Unit\Master\SFX\Charactrers\DogMovement" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1773922643" Name="DogSad" ObjectPath="\Events\Default Work Unit\Master\SFX\Charactrers\DogSad" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.393870" DurationMax="1.020636">
+					<IncludedMemoryFiles>
+						<File Id="76205437" Language="SFX">
+							<ShortName>Dog_RESA_Sad-004.wav</ShortName>
+							<Path>SFX\Dog_RESA_Sad-004_D5AB5C56.wem</Path>
+						</File>
+						<File Id="88197628" Language="SFX">
+							<ShortName>Dog_RESA_Sad-001.wav</ShortName>
+							<Path>SFX\Dog_RESA_Sad-001_D5AB5C56.wem</Path>
+						</File>
+						<File Id="104604838" Language="SFX">
+							<ShortName>Dog_RESA_Sad-002.wav</ShortName>
+							<Path>SFX\Dog_RESA_Sad-002_D5AB5C56.wem</Path>
+						</File>
+						<File Id="516014863" Language="SFX">
+							<ShortName>Dog_RESA_Sad-006.wav</ShortName>
+							<Path>SFX\Dog_RESA_Sad-006_D5AB5C56.wem</Path>
+						</File>
+						<File Id="559452089" Language="SFX">
+							<ShortName>Dog_RESA_Sad-005.wav</ShortName>
+							<Path>SFX\Dog_RESA_Sad-005_D5AB5C56.wem</Path>
+						</File>
+						<File Id="816297478" Language="SFX">
+							<ShortName>Dog_RESA_Sad-003.wav</ShortName>
+							<Path>SFX\Dog_RESA_Sad-003_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3638457343" Name="DoorClose" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\DoorClose" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="5.482656" DurationMax="5.939552">
+					<IncludedMemoryFiles>
+						<File Id="251580011" Language="SFX">
+							<ShortName>Door_05.wav</ShortName>
+							<Path>SFX\Door_05_D5AB5C56.wem</Path>
+						</File>
+						<File Id="1019573919" Language="SFX">
+							<ShortName>Door_04.wav</ShortName>
+							<Path>SFX\Door_04_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1404805401" Name="DoorOpen" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\DoorOpen" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="4.422864" DurationMax="4.633783">
+					<IncludedMemoryFiles>
+						<File Id="50706706" Language="SFX">
+							<ShortName>Door_02.wav</ShortName>
+							<Path>SFX\Door_02_B95F3A32.wem</Path>
+						</File>
+						<File Id="304449543" Language="SFX">
+							<ShortName>Door_03.wav</ShortName>
+							<Path>SFX\Door_03_02EF5CC3.wem</Path>
+						</File>
+						<File Id="830250425" Language="SFX">
+							<ShortName>Door_01.wav</ShortName>
+							<Path>SFX\Door_01_BB82C015.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3250089732" Name="Electric" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\Electric" MaxAttenuation="28.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="54784058" Language="SFX">
+							<ShortName>Electricity-004.wav</ShortName>
+							<Path>SFX\Electricity-004_AB7DA520.wem</Path>
+						</File>
+						<File Id="187817593" Language="SFX">
+							<ShortName>Electricity-003.wav</ShortName>
+							<Path>SFX\Electricity-003_AB7DA520.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="13776098" Name="Explosion" ObjectPath="\Events\Default Work Unit\Master\SFX\Effects\Explosion" DurationType="OneShot" DurationMin="10.841233" DurationMax="10.841233">
+					<IncludedMemoryFiles>
+						<File Id="280244061" Language="SFX">
+							<ShortName>Explosion_02.1.wav</ShortName>
+							<Path>SFX\Explosion_02.1_2FDA1036.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2678880713" Name="Fire" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\Fire" MaxAttenuation="50.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="803245758" Language="SFX">
+							<ShortName>Fire.wav</ShortName>
+							<Path>SFX\Fire_AB7DA520.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="3203961905" Name="GlassDestructible" ObjectPath="\Events\Default Work Unit\Master\SFX\Physics\GlassDestructible" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.299581" DurationMax="0.411809">
+					<IncludedMemoryFiles>
+						<File Id="654450770" Language="SFX">
+							<ShortName>Ceramic-003.wav</ShortName>
+							<Path>SFX\Ceramic-003_1554D68A.wem</Path>
+						</File>
+						<File Id="850714926" Language="SFX">
+							<ShortName>Ceramic-002.wav</ShortName>
+							<Path>SFX\Ceramic-002_D47F342E.wem</Path>
+						</File>
+						<File Id="886192503" Language="SFX">
+							<ShortName>Ceramic-004.wav</ShortName>
+							<Path>SFX\Ceramic-004_3E219B3D.wem</Path>
+						</File>
+						<File Id="963842881" Language="SFX">
+							<ShortName>Ceramic-001.wav</ShortName>
+							<Path>SFX\Ceramic-001_211CFF2B.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3533277004" Name="LeftFootstep" ObjectPath="\Events\Default Work Unit\Master\SFX\Charactrers\LeftFootstep" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.249028" DurationMax="0.599166">
+					<IncludedMemoryFiles>
+						<File Id="6874188" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-004.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-004_424B4E2C.wem</Path>
+						</File>
+						<File Id="53919808" Language="SFX">
+							<ShortName>Footsteps_Left_Pipe-003.wav</ShortName>
+							<Path>SFX\Footsteps_Left_Pipe-003_B18B1F1B.wem</Path>
+						</File>
+						<File Id="66526941" Language="SFX">
+							<ShortName>Footsteps_Left_Pipe-005.wav</ShortName>
+							<Path>SFX\Footsteps_Left_Pipe-005_45C15557.wem</Path>
+						</File>
+						<File Id="80326827" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-001.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-001_E3865ABA.wem</Path>
+						</File>
+						<File Id="94707510" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-005.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-005_38876C96.wem</Path>
+						</File>
+						<File Id="105025663" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-002.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-002_D8A24B4C.wem</Path>
+						</File>
+						<File Id="161800458" Language="SFX">
+							<ShortName>Footsteps_Left_Pipe-002.wav</ShortName>
+							<Path>SFX\Footsteps_Left_Pipe-002_7DF54181.wem</Path>
+						</File>
+						<File Id="168638984" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-003.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-003_D20DD9E0.wem</Path>
+						</File>
+						<File Id="400686230" Language="SFX">
+							<ShortName>Footsteps_Left_Pipe-001.wav</ShortName>
+							<Path>SFX\Footsteps_Left_Pipe-001_F0EACAB3.wem</Path>
+						</File>
+						<File Id="448582764" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-006.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-006_65EC861C.wem</Path>
+						</File>
+						<File Id="974233114" Language="SFX">
+							<ShortName>Footsteps_Left_Pipe-004.wav</ShortName>
+							<Path>SFX\Footsteps_Left_Pipe-004_C96D1C58.wem</Path>
+						</File>
+						<File Id="1016802093" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-007.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-007_135CF967.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2768194115" Name="MainMenuAmbience" ObjectPath="\Events\Default Work Unit\Master\UI\MainMenuAmbience" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="310961573" Language="SFX">
+							<ShortName>Spaceship Ambience_04.wav</ShortName>
+							<Path>SFX\Spaceship Ambience_04_699DE8CD.wem</Path>
+						</File>
+						<File Id="489526984" Language="SFX">
+							<ShortName>Ambience_Carpet_0.wav</ShortName>
+							<Path>SFX\Ambience_Carpet_0_78D55724.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="1991862712" Name="MainMenuMusic" ObjectPath="\Events\Default Work Unit\Master\UI\MainMenuMusic" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="13404471" Language="SFX">
+							<ShortName>Drone_Tension_02.wav</ShortName>
+							<Path>SFX\Drone_Tension_02_78D55724.wem</Path>
+						</File>
+						<File Id="274923841" Language="SFX">
+							<ShortName>Drone_Tension_01.wav</ShortName>
+							<Path>SFX\Drone_Tension_01_78D55724.wem</Path>
+						</File>
+						<File Id="425298046" Language="SFX">
+							<ShortName>Drone_Melodic_01.wav</ShortName>
+							<Path>SFX\Drone_Melodic_01_78D55724.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{4C0C4078-24F7-4868-93CF-66A2BAF7AE42}">
+							<Media>
+								<File Id="425298046"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1E33A914-1789-4856-BE3C-2C6BB07502B8}">
+							<Media>
+								<File Id="274923841"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{59AE093F-4EBB-4009-8250-DD69603FF820}">
+							<Media>
+								<File Id="13404471"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3274863822" Name="MetalCollision" ObjectPath="\Events\Default Work Unit\Master\SFX\Physics\MetalCollision" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.193438" DurationMax="0.231063">
+					<IncludedMemoryFiles>
+						<File Id="5484119" Language="SFX">
+							<ShortName>Metal_Collision-001.wav</ShortName>
+							<Path>SFX\Metal_Collision-001_D5AB5C56.wem</Path>
+						</File>
+						<File Id="534856526" Language="SFX">
+							<ShortName>Metal_Collision-003.wav</ShortName>
+							<Path>SFX\Metal_Collision-003_D5AB5C56.wem</Path>
+						</File>
+						<File Id="577107293" Language="SFX">
+							<ShortName>Metal_Collision-002.wav</ShortName>
+							<Path>SFX\Metal_Collision-002_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3991942870" Name="Music" ObjectPath="\Events\Default Work Unit\Master\Music\Music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="13404471" Language="SFX">
+							<ShortName>Drone_Tension_02.wav</ShortName>
+							<Path>SFX\Drone_Tension_02_78D55724.wem</Path>
+						</File>
+						<File Id="274923841" Language="SFX">
+							<ShortName>Drone_Tension_01.wav</ShortName>
+							<Path>SFX\Drone_Tension_01_78D55724.wem</Path>
+						</File>
+						<File Id="319353832" Language="SFX">
+							<ShortName>Who Should I Trust.wav</ShortName>
+							<Path>SFX\Who Should I Trust_78D55724.wem</Path>
+						</File>
+						<File Id="348208018" Language="SFX">
+							<ShortName>Sabotage.wav</ShortName>
+							<Path>SFX\Sabotage_78D55724.wem</Path>
+						</File>
+						<File Id="395639748" Language="SFX">
+							<ShortName>Waking Up_02 Low lead.wav</ShortName>
+							<Path>SFX\Waking Up_02 Low lead_78D55724.wem</Path>
+						</File>
+						<File Id="425298046" Language="SFX">
+							<ShortName>Drone_Melodic_01.wav</ShortName>
+							<Path>SFX\Drone_Melodic_01_78D55724.wem</Path>
+						</File>
+						<File Id="791775281" Language="SFX">
+							<ShortName>Waking Up.wav</ShortName>
+							<Path>SFX\Waking Up_78D55724.wem</Path>
+						</File>
+						<File Id="816788713" Language="SFX">
+							<ShortName>First Explosion.wav</ShortName>
+							<Path>SFX\First Explosion_78D55724.wem</Path>
+						</File>
+						<File Id="894274522" Language="SFX">
+							<ShortName>Second Explosion.wav</ShortName>
+							<Path>SFX\Second Explosion_78D55724.wem</Path>
+						</File>
+						<File Id="944694771" Language="SFX">
+							<ShortName>Leaving.wav</ShortName>
+							<Path>SFX\Leaving_78D55724.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{4C0C4078-24F7-4868-93CF-66A2BAF7AE42}">
+							<Media>
+								<File Id="425298046"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1E33A914-1789-4856-BE3C-2C6BB07502B8}">
+							<Media>
+								<File Id="274923841"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{59AE093F-4EBB-4009-8250-DD69603FF820}">
+							<Media>
+								<File Id="13404471"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3418B1FC-8F3E-4086-8E8A-DAA70A4C3AC7}">
+							<Media>
+								<File Id="944694771"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{59AE093F-4EBB-4009-8250-DD69603FF820}">
+							<Media>
+								<File Id="894274522"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4EDC12D1-8820-40D3-80A2-3E30EDA4CEF2}">
+							<Media>
+								<File Id="348208018"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{FE01FCD2-35AE-431A-B23E-2972742AA43E}">
+							<Media>
+								<File Id="791775281"/>
+								<File Id="395639748"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1E33A914-1789-4856-BE3C-2C6BB07502B8}">
+							<Media>
+								<File Id="816788713"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{F748764B-9252-4158-9EE1-2D55D3966A6A}">
+							<Media>
+								<File Id="319353832"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3092587493" Name="Pause" ObjectPath="\Events\Default Work Unit\Master\Pause" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="13404471" Language="SFX">
+							<ShortName>Drone_Tension_02.wav</ShortName>
+							<Path>SFX\Drone_Tension_02_78D55724.wem</Path>
+						</File>
+						<File Id="274923841" Language="SFX">
+							<ShortName>Drone_Tension_01.wav</ShortName>
+							<Path>SFX\Drone_Tension_01_78D55724.wem</Path>
+						</File>
+						<File Id="425298046" Language="SFX">
+							<ShortName>Drone_Melodic_01.wav</ShortName>
+							<Path>SFX\Drone_Melodic_01_78D55724.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{4C0C4078-24F7-4868-93CF-66A2BAF7AE42}">
+							<Media>
+								<File Id="425298046"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1E33A914-1789-4856-BE3C-2C6BB07502B8}">
+							<Media>
+								<File Id="274923841"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{59AE093F-4EBB-4009-8250-DD69603FF820}">
+							<Media>
+								<File Id="13404471"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3978245845" Name="Pickup" ObjectPath="\Events\Default Work Unit\Master\SFX\Charactrers\Pickup" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.440432" DurationMax="0.494368">
+					<IncludedMemoryFiles>
+						<File Id="1052349985" Language="SFX">
+							<ShortName>Pickup.wav</ShortName>
+							<Path>SFX\Pickup_9E0A3DB5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4063327017" Name="PlasticCollision" ObjectPath="\Events\Default Work Unit\Master\SFX\Physics\PlasticCollision" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.094215" DurationMax="0.149837">
+					<IncludedMemoryFiles>
+						<File Id="61675203" Language="SFX">
+							<ShortName>Plastic_Collision-004.wav</ShortName>
+							<Path>SFX\Plastic_Collision-004_2B21D515.wem</Path>
+						</File>
+						<File Id="79419945" Language="SFX">
+							<ShortName>Plastic_Collision-001.wav</ShortName>
+							<Path>SFX\Plastic_Collision-001_A86AF99F.wem</Path>
+						</File>
+						<File Id="232430573" Language="SFX">
+							<ShortName>Plastic_Collision-002.wav</ShortName>
+							<Path>SFX\Plastic_Collision-002_F94CF2D9.wem</Path>
+						</File>
+						<File Id="593981610" Language="SFX">
+							<ShortName>Plastic_Collision-003.wav</ShortName>
+							<Path>SFX\Plastic_Collision-003_C5AD0055.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3805168171" Name="PorslineCollision" ObjectPath="\Events\Default Work Unit\Master\SFX\Physics\PorslineCollision" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.100396" DurationMax="0.159667">
+					<IncludedMemoryFiles>
+						<File Id="465070578" Language="SFX">
+							<ShortName>Ceramic_Collision-001.wav</ShortName>
+							<Path>SFX\Ceramic_Collision-001_D5AB5C56.wem</Path>
+						</File>
+						<File Id="595288725" Language="SFX">
+							<ShortName>Ceramic_Collision-004.wav</ShortName>
+							<Path>SFX\Ceramic_Collision-004_D5AB5C56.wem</Path>
+						</File>
+						<File Id="651936536" Language="SFX">
+							<ShortName>Ceramic_Collision-002.wav</ShortName>
+							<Path>SFX\Ceramic_Collision-002_D5AB5C56.wem</Path>
+						</File>
+						<File Id="1056425573" Language="SFX">
+							<ShortName>Ceramic_Collision-003.wav</ShortName>
+							<Path>SFX\Ceramic_Collision-003_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1506829895" Name="PorslineDestructible" ObjectPath="\Events\Default Work Unit\Master\SFX\Physics\PorslineDestructible" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.423671" DurationMax="1.059463">
+					<IncludedMemoryFiles>
+						<File Id="499931750" Language="SFX">
+							<ShortName>Ceramic-006.wav</ShortName>
+							<Path>SFX\Ceramic-006_E1D1EF51.wem</Path>
+						</File>
+						<File Id="654450770" Language="SFX">
+							<ShortName>Ceramic-003.wav</ShortName>
+							<Path>SFX\Ceramic-003_1554D68A.wem</Path>
+						</File>
+						<File Id="675515371" Language="SFX">
+							<ShortName>Ceramic-008.wav</ShortName>
+							<Path>SFX\Ceramic-008_D5AB5C56.wem</Path>
+						</File>
+						<File Id="764821117" Language="SFX">
+							<ShortName>Ceramic-005.wav</ShortName>
+							<Path>SFX\Ceramic-005_07B72422.wem</Path>
+						</File>
+						<File Id="850714926" Language="SFX">
+							<ShortName>Ceramic-002.wav</ShortName>
+							<Path>SFX\Ceramic-002_D47F342E.wem</Path>
+						</File>
+						<File Id="864924528" Language="SFX">
+							<ShortName>Ceramic-007.wav</ShortName>
+							<Path>SFX\Ceramic-007_E9F2BAAD.wem</Path>
+						</File>
+						<File Id="886192503" Language="SFX">
+							<ShortName>Ceramic-004.wav</ShortName>
+							<Path>SFX\Ceramic-004_3E219B3D.wem</Path>
+						</File>
+						<File Id="963842881" Language="SFX">
+							<ShortName>Ceramic-001.wav</ShortName>
+							<Path>SFX\Ceramic-001_211CFF2B.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2628769756" Name="PuzzleComplete" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\PuzzleComplete" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="2.213562" DurationMax="2.213562">
+					<IncludedMemoryFiles>
+						<File Id="420062380" Language="SFX">
+							<ShortName>PuzzleClose.wav</ShortName>
+							<Path>SFX\PuzzleClose_D5AB5C56.wem</Path>
+						</File>
+						<File Id="909201863" Language="SFX">
+							<ShortName>Door_Beep.wav</ShortName>
+							<Path>SFX\Door_Beep_33B21A3B.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="570868666" Name="PuzzleInsert" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\PuzzleInsert" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.487676" DurationMax="0.487676">
+					<IncludedMemoryFiles>
+						<File Id="64060807" Language="SFX">
+							<ShortName>PuzzleInsert.wav</ShortName>
+							<Path>SFX\PuzzleInsert_13CC927D.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3534035855" Name="PuzzleOpening" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\PuzzleOpening" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="1.690896" DurationMax="1.690896">
+					<IncludedMemoryFiles>
+						<File Id="892175314" Language="SFX">
+							<ShortName>PuzzleOpen.wav</ShortName>
+							<Path>SFX\PuzzleOpen_D5AB5C56.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2380457374" Name="QuitGame" ObjectPath="\Events\Default Work Unit\Master\QuitGame" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4221175997" Name="RadioOff" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\RadioOff" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4245784721" Name="RadioOn" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\RadioOn" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="792382950" Language="SFX">
+							<ShortName>Radio Loop_02.wav</ShortName>
+							<Path>SFX\Radio Loop_02_AB7DA520.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="606418267" Name="RightFootstep" ObjectPath="\Events\Default Work Unit\Master\SFX\Charactrers\RightFootstep" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.249028" DurationMax="0.599166">
+					<IncludedMemoryFiles>
+						<File Id="6874188" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-004.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-004_424B4E2C.wem</Path>
+						</File>
+						<File Id="80326827" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-001.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-001_E3865ABA.wem</Path>
+						</File>
+						<File Id="94707510" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-005.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-005_38876C96.wem</Path>
+						</File>
+						<File Id="105025663" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-002.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-002_D8A24B4C.wem</Path>
+						</File>
+						<File Id="168638984" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-003.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-003_D20DD9E0.wem</Path>
+						</File>
+						<File Id="265754417" Language="SFX">
+							<ShortName>Footsteps_Right_Pipe-005.wav</ShortName>
+							<Path>SFX\Footsteps_Right_Pipe-005_87D0B168.wem</Path>
+						</File>
+						<File Id="448582764" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-006.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-006_65EC861C.wem</Path>
+						</File>
+						<File Id="683795748" Language="SFX">
+							<ShortName>Footsteps_Right_Pipe-003.wav</ShortName>
+							<Path>SFX\Footsteps_Right_Pipe-003_F024AD86.wem</Path>
+						</File>
+						<File Id="768250494" Language="SFX">
+							<ShortName>Footsteps_Right_Pipe-002.wav</ShortName>
+							<Path>SFX\Footsteps_Right_Pipe-002_49F2177B.wem</Path>
+						</File>
+						<File Id="980324782" Language="SFX">
+							<ShortName>Footsteps_Right_Pipe-001.wav</ShortName>
+							<Path>SFX\Footsteps_Right_Pipe-001_0A10C5D5.wem</Path>
+						</File>
+						<File Id="1016802093" Language="SFX">
+							<ShortName>Clothing_Clothes_Soft-007.wav</ShortName>
+							<Path>SFX\Clothing_Clothes_Soft-007_135CF967.wem</Path>
+						</File>
+						<File Id="1069672745" Language="SFX">
+							<ShortName>Footsteps_Right_Pipe-004.wav</ShortName>
+							<Path>SFX\Footsteps_Right_Pipe-004_32C22C50.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="157639802" Name="Rumble" ObjectPath="\Events\Default Work Unit\Master\SFX\Effects\Rumble" DurationType="OneShot" DurationMin="8.892685" DurationMax="8.892685">
+					<IncludedMemoryFiles>
+						<File Id="1010612722" Language="SFX">
+							<ShortName>Explosion_01.1.wav</ShortName>
+							<Path>SFX\Explosion_01.1_1FDDA4EA.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3112514043" Name="StaticNoise" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\StaticNoise" MaxAttenuation="28.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="734479414" Language="SFX">
+							<ShortName>Electricity-002.wav</ShortName>
+							<Path>SFX\Electricity-002_AB7DA520.wem</Path>
+						</File>
+						<File Id="861861425" Language="SFX">
+							<ShortName>Electricity-001.wav</ShortName>
+							<Path>SFX\Electricity-001_AB7DA520.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="3876079251" Name="TerminalInteraction" ObjectPath="\Events\Default Work Unit\Master\SFX\Effects\TerminalInteraction" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3412868374" Name="Unpause" ObjectPath="\Events\Default Work Unit\Master\Unpause" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2801396123" Name="VendingMachineButton" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\VendingMachineButton" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.190982" DurationMax="0.190982">
+					<IncludedMemoryFiles>
+						<File Id="447922857" Language="SFX">
+							<ShortName>Door_Beep.wav</ShortName>
+							<Path>SFX\Door_Beep_7D7F5DC2.wem</Path>
+						</File>
+						<File Id="869890101" Language="SFX">
+							<ShortName>Vending Machine_Button_01.wav</ShortName>
+							<Path>SFX\Vending Machine_Button_01_0A6011EC.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1319057753" Name="VendingMachineDispens" ObjectPath="\Events\Default Work Unit\Master\SFX\Object\VendingMachineDispens" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="1.921338" DurationMax="3.089845">
+					<IncludedMemoryFiles>
+						<File Id="886866707" Language="SFX">
+							<ShortName>Vending Machine_01.wav</ShortName>
+							<Path>SFX\Vending Machine_01_0EA4F02F.wem</Path>
+						</File>
+						<File Id="1062060914" Language="SFX">
+							<ShortName>Vending Machine_02.wav</ShortName>
+							<Path>SFX\Vending Machine_02_E05C1B08.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="414646191" Name="VoiceVolume" ObjectPath="\Game Parameters\Default Work Unit\Options\VoiceVolume"/>
+				<GameParameter Id="640585335" Name="EffectsVolume" ObjectPath="\Game Parameters\Default Work Unit\Options\EffectsVolume"/>
+				<GameParameter Id="2366934999" Name="VelocityRESA" ObjectPath="\Game Parameters\Default Work Unit\VelocityRESA"/>
+				<GameParameter Id="3546521921" Name="AmbientVolume" ObjectPath="\Game Parameters\Default Work Unit\Options\AmbientVolume"/>
+				<GameParameter Id="4240233774" Name="Force" ObjectPath="\Game Parameters\Default Work Unit\Force"/>
+				<GameParameter Id="4289149801" Name="VO_Ducker" ObjectPath="\Game Parameters\Default Work Unit\VO_Ducker"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="308635872" Name="Progress" ObjectPath="\States\Default Work Unit\Progress">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Progress\None"/>
+						<State Id="3584301201" Name="Progress1" ObjectPath="\States\Default Work Unit\Progress\Progress1"/>
+						<State Id="3584301202" Name="Progress2" ObjectPath="\States\Default Work Unit\Progress\Progress2"/>
+						<State Id="3584301203" Name="Progress3" ObjectPath="\States\Default Work Unit\Progress\Progress3"/>
+						<State Id="3584301204" Name="Progress4" ObjectPath="\States\Default Work Unit\Progress\Progress4"/>
+						<State Id="3584301205" Name="Progress5" ObjectPath="\States\Default Work Unit\Progress\Progress5"/>
+						<State Id="3584301206" Name="Progress6" ObjectPath="\States\Default Work Unit\Progress\Progress6"/>
+						<State Id="3584301207" Name="Progress7" ObjectPath="\States\Default Work Unit\Progress\Progress7"/>
+						<State Id="3584301208" Name="Progress8" ObjectPath="\States\Default Work Unit\Progress\Progress8"/>
+						<State Id="3584301209" Name="Progress9" ObjectPath="\States\Default Work Unit\Progress\Progress9"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

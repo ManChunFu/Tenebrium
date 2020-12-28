@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9477246eb5f904da2c521f9d4cc869, type: 3}
+  m_Name: GameEndVOScript
+  m_EditorClassIdentifier: 
+  endGame:
+  - endingType: 0
+    timeline: {fileID: 5934624380618940832, guid: a90e6cc0682542143bd6cd6b35b5e069,
+      type: 3}
+  - endingType: 1
+    timeline: {fileID: 4745647292991625220, guid: ae0e815e29cc8c34d8b44a2d2842d253,
+      type: 3}
+  - endingType: 2
+    timeline: {fileID: 5612506141505463668, guid: d93ce6121a91bc74cb8289ff96f22dab,
+      type: 3}

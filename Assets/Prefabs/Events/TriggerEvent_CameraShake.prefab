@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4792037655254100835
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5689500091677047496}
+  - component: {fileID: 3339266608243670931}
+  - component: {fileID: 6768037625108821779}
+  m_Layer: 0
+  m_Name: TriggerEvent_CameraShake
+  m_TagString: Untagged
+  m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5689500091677047496
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4792037655254100835}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 34.7, y: 1, z: -30.18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3339266608243670931
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4792037655254100835}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 6, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &6768037625108821779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4792037655254100835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469522ee752d41a41b1d6ea8207733ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiManager: {fileID: 0}
+  triggerOnce: 1
+  displayMessage: 1
+  displayInfo: ALERT! SHIP LEAKING COOLANT!
+  textFont: {fileID: 12800000, guid: 16c8d2ec9433baa4eb86ac1fd83f3ed9, type: 3}
+  fontSize: 20
+  fontStyle: 3
+  textColor: {r: 0.6698113, g: 0.06634923, b: 0.06634923, a: 1}
+  secondsToClearText: 3
+  cameraShake: {fileID: 0}
+  shakeDuration: 1.5
+  shakeForce: 5
+  shakeRange: {x: 3, y: 2, z: 2}
+  curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.0003052
+      inSlope: -0.02076311
+      outSlope: -0.02076311
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.11081224
+    - serializedVersion: 3
+      time: 0.50061023
+      value: 1.0004249
+      inSlope: 0.035037976
+      outSlope: 0.035037976
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.07310748
+    - serializedVersion: 3
+      time: 0.99922013
+      value: -0.0017711595
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

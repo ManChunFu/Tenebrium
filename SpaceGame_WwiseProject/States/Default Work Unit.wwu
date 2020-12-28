@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{573070E1-4C32-49EC-9D2B-38B65A9579FD}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{573070E1-4C32-49EC-9D2B-38B65A9579FD}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Progress" ID="{B64F9A52-04FE-43E1-A747-4E301898A1F0}">
+					<ChildrenList>
+						<State Name="None" ID="{E3219F81-396F-4AFB-BDEE-C1E2EE98BB87}"/>
+						<State Name="Progress1" ID="{4C0C4078-24F7-4868-93CF-66A2BAF7AE42}"/>
+						<State Name="Progress2" ID="{FE01FCD2-35AE-431A-B23E-2972742AA43E}"/>
+						<State Name="Progress3" ID="{1E33A914-1789-4856-BE3C-2C6BB07502B8}"/>
+						<State Name="Progress4" ID="{F748764B-9252-4158-9EE1-2D55D3966A6A}"/>
+						<State Name="Progress5" ID="{59AE093F-4EBB-4009-8250-DD69603FF820}"/>
+						<State Name="Progress6" ID="{40A76280-DFA9-4B6A-BB1B-505E21986CF4}"/>
+						<State Name="Progress7" ID="{4EDC12D1-8820-40D3-80A2-3E30EDA4CEF2}"/>
+						<State Name="Progress8" ID="{77422C26-011A-4AC0-8031-6B327FA0D1B5}"/>
+						<State Name="Progress9" ID="{3418B1FC-8F3E-4086-8E8A-DAA70A4C3AC7}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Paused" ID="{C3741ECA-0B04-467F-8876-DBC8BC373135}">
+					<ChildrenList>
+						<State Name="None" ID="{813745C8-B187-401F-88CD-FA201D3527D9}"/>
+						<State Name="On" ID="{E09A7F46-6ADC-45A8-B7DD-997ECE81063D}"/>
+						<State Name="Off" ID="{6CB7540E-6140-41EF-9EE1-8529394CDB2A}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{28B109E1-FEA7-4011-86B2-CC40D54A7D85}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{28B109E1-FEA7-4011-86B2-CC40D54A7D85}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Force" ID="{AB8949F7-20B6-4D63-A3ED-F91D50CD2614}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="15"/>
+					</PropertyList>
+				</GameParameter>
+				<Folder Name="Options" ID="{9127DA19-784F-415C-8172-E92D653E4C84}" ShortID="303986670">
+					<ChildrenList>
+						<GameParameter Name="MasterVolume" ID="{7748F01C-A436-49FE-9B76-B02F23B5A0EF}">
+							<PropertyList>
+								<Property Name="InitialValue" Type="Real64" Value="100"/>
+							</PropertyList>
+						</GameParameter>
+						<GameParameter Name="EffectsVolume" ID="{08938966-006D-4703-9C05-96279E491D1A}">
+							<PropertyList>
+								<Property Name="InitialValue" Type="Real64" Value="100"/>
+							</PropertyList>
+						</GameParameter>
+						<GameParameter Name="AmbientVolume" ID="{CC6FB7DF-5F3A-49E6-8FC9-B13C075387B5}">
+							<PropertyList>
+								<Property Name="InitialValue" Type="Real64" Value="100"/>
+							</PropertyList>
+						</GameParameter>
+						<GameParameter Name="MusicVolume" ID="{7A607C66-ED5B-4061-A950-1B83788AA069}">
+							<PropertyList>
+								<Property Name="InitialValue" Type="Real64" Value="100"/>
+							</PropertyList>
+						</GameParameter>
+						<GameParameter Name="VoiceVolume" ID="{D88FCA3F-8C8A-4AF0-AF51-8626295CB167}">
+							<PropertyList>
+								<Property Name="InitialValue" Type="Real64" Value="100"/>
+							</PropertyList>
+						</GameParameter>
+					</ChildrenList>
+				</Folder>
+				<GameParameter Name="VelocityRESA" ID="{C24378FA-FEF4-4C90-99A7-E6C51F255EAF}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="0.1"/>
+						<Property Name="RTPCRamping" Type="int16" Value="1"/>
+						<Property Name="SlewRateDown" Type="Real64" Value="0"/>
+						<Property Name="SlewRateUp" Type="Real64" Value="0.5"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="VO_Ducker" ID="{643F6623-02E5-4B5C-822E-DE7F9F177E07}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="-48"/>
+						<Property Name="Max" Type="Real64" Value="0"/>
+						<Property Name="Min" Type="Real64" Value="-48"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

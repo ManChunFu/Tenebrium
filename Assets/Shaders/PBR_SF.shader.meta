@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f3aa5c99b962f37409a3b1a430cc23c6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 8074561915dbb27418b2046870754ad0, type: 3}
+  - _BumpMap: {fileID: 2800000, guid: b57fa6f15f01e5a4c88b329bf25f56a2, type: 3}
+  - _Metallic: {fileID: 2800000, guid: e7b01655ec7a07343958cb638e1d9360, type: 3}
+  - _Gloss: {fileID: 2800000, guid: bb5e16be1c5399842936c5e7264c1a61, type: 3}
+  - _AmbientOcclusion: {fileID: 2800000, guid: 80b3e4a51ba0e7946841517916116c57, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

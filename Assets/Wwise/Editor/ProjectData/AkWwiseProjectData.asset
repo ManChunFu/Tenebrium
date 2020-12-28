@@ -1,0 +1,2432 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75a6cd55117850141a7bfea8bb2bb4c1, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: be84d0411771144d810322263fb8d153
+    GuidInternal: 
+    m_lastTime: -8586111173775812592
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 85960571ed7c2640a0062f3ba9dfd0f6
+    GuidInternal: 
+    m_lastTime: -8586096381810518625
+    List:
+    - name: AI
+      guid: 33a997ddff2de7458e71c90f257b2360
+      id: 1886858547
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: VO
+        ObjectType: 2
+      - ElementName: AI
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\VO\AI
+    - name: Ambience
+      guid: b28ff52f9c4c844c854ee0b8527ba7aa
+      id: 85412153
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Ambience
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\Ambience
+    - name: Characters
+      guid: af8f805a1728bf4dbb47e31dc3e07ca2
+      id: 1557941045
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: SFX
+        ObjectType: 2
+      - ElementName: Characters
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\SFX\Characters
+    - name: Delay
+      guid: 5bdcde6cc4686e4fb14c05dcdee16db6
+      id: 357718954
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Delay
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\Delay
+    - name: Drone
+      guid: 0a87535f821f7d4997b2f963ed981e83
+      id: 2739838641
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Music
+        ObjectType: 2
+      - ElementName: Drone
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\Music\Drone
+    - name: Effects
+      guid: 188c64075f0bbf41bc46e08af8dadb13
+      id: 1942696649
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: SFX
+        ObjectType: 2
+      - ElementName: Effects
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\SFX\Effects
+    - name: LiuYang
+      guid: b027c9ace5e2b346a031a43fc0c4eeac
+      id: 3469407730
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: VO
+        ObjectType: 2
+      - ElementName: LiuYang
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\VO\LiuYang
+    - name: MainMusic
+      guid: 1c45419cdefd1545847c6dc3364f5119
+      id: 3479155863
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Music
+        ObjectType: 2
+      - ElementName: MainMusic
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\Music\MainMusic
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+    - name: Music
+      guid: fe63e1203925044884895225fe57ee85
+      id: 3991942870
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Music
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\Music
+    - name: Objects
+      guid: 80797edeaa171142a4819f3703ccb8d0
+      id: 1695690031
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: SFX
+        ObjectType: 2
+      - ElementName: Objects
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\SFX\Objects
+    - name: Physics
+      guid: 17517a47a135da4c94d8a7744fed0f40
+      id: 445639444
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: SFX
+        ObjectType: 2
+      - ElementName: Physics
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\SFX\Physics
+    - name: Reverb
+      guid: 29fb7beace311d458485771ebecb4f75
+      id: 348963605
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Reverb
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\Reverb
+    - name: SFX
+      guid: ceb447efaa121140acd0424d9b3a2154
+      id: 393239870
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: SFX
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\SFX
+    - name: VO
+      guid: e63b83e5562f4d4c808a88e3aeb52d5f
+      id: 1534528548
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: VO
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus\VO
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 70391939bf62fc42a05e61444b947048
+    GuidInternal: 
+    m_lastTime: -8586111173776486982
+    List:
+    - name: Master
+      guid: 46aa347cae2b1f488342ae118c3d700e
+      id: 4056684167
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 7
+      Path: Default Work Unit\Master
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 078c38615b4a3f44860ab94a6f81b85c
+    GuidInternal: 
+    m_lastTime: -8586093623698430777
+    List:
+    - name: _0_AI_VO
+      guid: f56d16f01108744892aedd8031f0612e
+      id: 3379670421
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _0_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_0_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _1_AI_VO
+      guid: 96630cd49b904647bb32a7603e9dd4bf
+      id: 1349042876
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _1_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_1_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _10_AI_VO
+      guid: 1ae9f087c32b2b418273c19a94abcef0
+      id: 2753910942
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _10_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_10_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _11_AI_VO
+      guid: cde182014f6982478a6602f4c8611ee5
+      id: 326212183
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _11_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_11_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _12_AI_VO
+      guid: 66e018c571a14e408651b8b4a5613143
+      id: 2990511132
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _12_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_12_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _13_AI_VO
+      guid: a045966161d5e34390977c5d0bb4dacc
+      id: 2471890165
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _13_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_13_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _14_AI_VO
+      guid: 2c731ba3747ec046a1304f9dfeb9ae5b
+      id: 592875810
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _14_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_14_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _15_AI_VO
+      guid: aeceef4ec4b4ed49bba24b77125ff991
+      id: 4264540971
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _15_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_15_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _16_AI_VO
+      guid: 7d5a7cfc32ed954cb1cc93c0d2161197
+      id: 3465258384
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _16_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_16_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _17_AI_VO
+      guid: 8a53c13a56429144979caa7aa4f91bfd
+      id: 3277776185
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _17_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_17_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _18_LiuYang_VO
+      guid: 409035a4a4e60843b7da3f6b6e937dec
+      id: 3002466363
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _18_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_18_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _19_LiuYang_VO
+      guid: 1c8f2a9c2cd531479d2f054eba918ca1
+      id: 1328132924
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _19_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_19_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _2_AI_VO
+      guid: 05ad5161206e3d4ea1700a6efcd5621b
+      id: 4146396151
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _2_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_2_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _20_AI_VO
+      guid: 5da79bf7e0e5624a890b0b62914e0a99
+      id: 1574354619
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _20_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_20_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _21_AI_VO
+      guid: 6304e8c9fef80e49887893c6287d5e87
+      id: 3650674802
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _21_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_21_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _22_AI_VO
+      guid: 68a0af093795d64682e447e5721befda
+      id: 3217841545
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _22_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_22_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _23_AI_VO
+      guid: 9927e29a6dca03429300571af116bd6d
+      id: 1779688224
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _23_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_23_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _24_AI_VO
+      guid: ded335924a035542855e37ff97ba0984
+      id: 2142830759
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _24_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_24_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _25_AI_VO
+      guid: 04153de02690b741b83f6ddfc4fb45c7
+      id: 1562536494
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _25_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_25_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _26_LiuYang_VO
+      guid: 370e32725a8d3248983538b54da2e834
+      id: 2224057014
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _26_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_26_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _27_LiuYang_VO
+      guid: f55e03c9e8b1734ea79e0ed66262efe1
+      id: 3894874373
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _27_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_27_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _28_LiuYang_VO
+      guid: 427686f982269742af104362ee70487e
+      id: 1743192504
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _28_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_28_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _29_LiuYang_VO
+      guid: 7b9ec671f1a736459a9c4dd49494eefb
+      id: 216292295
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _29_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_29_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _3_AI_VO
+      guid: 6805e416b5db584880aaaad65e0df1e6
+      id: 2919257662
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _3_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_3_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _30_AI_VO
+      guid: 5981ea3099656145b3858346d08305e2
+      id: 774332868
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _30_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_30_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _31_AI_VO
+      guid: 1b0fc10233d324478be88a1e2f1aafc8
+      id: 1902570877
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _31_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_31_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _32_AI_VO
+      guid: c8cf5f077216e14ea73cc66906fe488c
+      id: 1015091814
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _32_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_32_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _33_AI_VO
+      guid: 0c647f0fb8fa8d4ba81097a90bdbbaa7
+      id: 2505285631
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _33_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_33_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _34_AI_VO
+      guid: 65ecf3dffb858140af7a20754007fe77
+      id: 3463954040
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _34_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_34_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _35_AI_VO
+      guid: 0bb61ba3b1bafb478a3a7fe767f7fd7d
+      id: 3070114209
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _35_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_35_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _36_AI_VO
+      guid: 4e25ece9a187ff4683553b0d564b0e93
+      id: 1488039946
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _36_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_36_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _37_AI_VO
+      guid: a6544a4273b10e40892f926507ad7c39
+      id: 639742547
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _37_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_37_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _38_LiuYang_VO
+      guid: c5b9e13d6641ba4a915776218ad6e698
+      id: 3594300405
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _38_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_38_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _39_AI_VO
+      guid: 30ef0daea3587b428ed35b553e3db88d
+      id: 442823253
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _39_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_39_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _4_AI_VO
+      guid: b47fdb78e5914845affa19b06f780cc2
+      id: 3443226073
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _4_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_4_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _40_AI_VO
+      guid: 475f13a675bfce45a1b5aff5b609c6be
+      id: 1597254897
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _40_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_40_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _41_LiuYang_VO
+      guid: 47d3f0d30939a14da4f30d623f2c64fb
+      id: 506410249
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _41_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_41_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _42_LiuYang_VO
+      guid: bc61a1f88a3d2b45b8c894012587c17d
+      id: 3547202328
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _42_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_42_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _43_AI_VO
+      guid: f09535c123a33942bedb3f372b5cf764
+      id: 662024602
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _43_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_43_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _44_LiuYang_VO
+      guid: 3c840c42645772498dc7d548be193d62
+      id: 2755642910
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _44_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_44_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _45_AI_VO
+      guid: cd794ccaa09f924cb1ea1dfec7d16a86
+      id: 3994303700
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _45_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_45_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _46_AI_VO
+      guid: e4b72b7fbdb6dc49ba16a793ea7a9c2e
+      id: 793120847
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _46_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_46_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _47_LiuYang_VO
+      guid: 7a5ce83ba9c201488f94f63e10e74452
+      id: 3321502731
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _47_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_47_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _48_LiuYang_VO
+      guid: 1385563b6022934db8daa8c8f1756a7c
+      id: 1184529250
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _48_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_48_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _49_LiuYang_VO
+      guid: 7a0d49cb8847684b9a5800dde2b4a0db
+      id: 489175489
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _49_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_49_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _5_AI_VO
+      guid: 4c4ac03ed1eaba44ac70143e4cecdc86
+      id: 738886832
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _5_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_5_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _50_AI_VO
+      guid: 6e447274438e094a96db3990a3fb4f32
+      id: 4096795114
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _50_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_50_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _51_AI_VO
+      guid: df18ca1cf5e43d4b9eb709b3cc9e9103
+      id: 3909415859
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _51_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_51_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _52_AI_VO
+      guid: 92d7b8133d93f04fbb7c65712e9feec7
+      id: 2397083352
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _52_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_52_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _53_AI_VO
+      guid: 982057ddcf14e246b32a5137812e5d01
+      id: 4190399873
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _53_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_53_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _54_AI_VO
+      guid: 57f3b9233f9b5b4abd0138e792587e32
+      id: 1393046854
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _54_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_54_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _55_AI_VO
+      guid: dbfa5d0c42bc5947b6d7fdc1d662e613
+      id: 2625991391
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _55_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_55_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _56_AI_VO
+      guid: 22167156849b1d448ec264d1d3ecf277
+      id: 3362402596
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _56_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_56_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _57_AI_VO
+      guid: c97915a709f1a74286b9992dab71ec32
+      id: 195570141
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _57_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_57_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _58_AI_VO
+      guid: 4246760cfdf79e498c3831ef08a278fa
+      id: 1388339810
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _58_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_58_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _59_LiuYang_VO
+      guid: 31e5f1faf9d22e43ae63327d61d259d5
+      id: 620709504
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _59_LiuYang_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_59_LiuYang_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _6_AI_VO
+      guid: a257ec0439272b43b1548b6ba06d4fc9
+      id: 114235211
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _6_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_6_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _60_AI_VO
+      guid: 1395603f24be0e4caa5a305b7c130f62
+      id: 2148204663
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _60_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_60_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _61_AI_VO
+      guid: 4b383c40bdb7dc4bbe4d0d38115d3a31
+      id: 921066174
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _61_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_61_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _62_AI_VO
+      guid: a604ffa089b54b4ba1953ec66285a6ba
+      id: 1381478933
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _62_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_62_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _63_AI_VO
+      guid: 7d1a8169bbd78d40a1421cfd5a3cab3a
+      id: 3645818684
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _63_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_63_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _64_AI_VO
+      guid: fe997534005ecc4abb3d0fb1e335409d
+      id: 2411011019
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _64_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_64_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _65_AI_VO
+      guid: 840a950046aa0b4283143fffad7ca343
+      id: 2630644034
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _65_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_65_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _66_AI_VO
+      guid: c3f952a688e7fb489b550ae2f6d34d5b
+      id: 1445034585
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _66_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_66_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _7_AI_VO
+      guid: 92c6b2d1ac12ad429aa0b4a4e769a3ae
+      id: 333868226
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _7_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_7_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _8_AI_VO
+      guid: c1acc079557b254ba883bc64e930ee6a
+      id: 585924285
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _8_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_8_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: _9_AI_VO
+      guid: d293844e97212f4eb43bcb90e44de700
+      id: 3711180036
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      - ElementName: _9_AI_VO
+        ObjectType: 3
+      Path: Default Work Unit\Master\VO\_9_AI_VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: AirLock
+      guid: 74d564aa3364c24eafca5f256ced627a
+      id: 3901468890
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Effects
+        ObjectType: 4
+      - ElementName: AirLock
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Effects\AirLock
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Alarm
+      guid: cd0562eef3bcf94bad6cfd4fb2ec64c4
+      id: 855317084
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: Alarm
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\Alarm
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Ambience
+      guid: ac082f9178ebe144b4edd6621a9e8729
+      id: 85412153
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: Ambience
+        ObjectType: 3
+      Path: Default Work Unit\Master\Ambience\Ambience
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Ambience
+      guid: 528fd1693a84504c80fde18978c44aca
+      id: 85412153
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: Ambience
+        ObjectType: 4
+      Path: Default Work Unit\Master\Ambience
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: ButtonPressSuccessful
+      guid: b2b1b7c7c5e03e49b08f25b7fdd59354
+      id: 289505868
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: ButtonPressSuccessful
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\ButtonPressSuccessful
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: ButtonPressUnsuccessful
+      guid: 68969a4132daf54d8e379b73636e333e
+      id: 3599161817
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: ButtonPressUnsuccessful
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\ButtonPressUnsuccessful
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Charactrers
+      guid: 0dca81dd324aee44b2b7ae7be48bb464
+      id: 2229887877
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      Path: Default Work Unit\Master\SFX\Charactrers
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Click
+      guid: ef306d8a966eea4aa2582f02bd4a9b42
+      id: 1584507803
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: UI
+        ObjectType: 4
+      - ElementName: Click
+        ObjectType: 3
+      Path: Default Work Unit\Master\UI\Click
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: ComputerBeep
+      guid: a6ba6f02eeaee24187de9d6d5ce965f1
+      id: 699061410
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: ComputerBeep
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\ComputerBeep
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Cryopod
+      guid: 1228a7db24b78d4ab01379b0f0c5b12c
+      id: 3091114887
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Effects
+        ObjectType: 4
+      - ElementName: Cryopod
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Effects\Cryopod
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: DicontaminationChamber
+      guid: c6dccf80690bf841bf745c678b9d9509
+      id: 4082835248
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Effects
+        ObjectType: 4
+      - ElementName: DicontaminationChamber
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Effects\DicontaminationChamber
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: DogDie
+      guid: bbef9c5f193f4949bec16d7a5d1d0216
+      id: 1507893381
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      - ElementName: DogDie
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Charactrers\DogDie
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: DogHappy
+      guid: 1465eb7490e90c42a798492e350d78e2
+      id: 251210461
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      - ElementName: DogHappy
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Charactrers\DogHappy
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: DogHover
+      guid: a6fa3ffd53176943a920e44197df4ecf
+      id: 3383375805
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      - ElementName: DogHover
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Charactrers\DogHover
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: DogMovement
+      guid: 879077209cf3c74aaedcd2762f7bffe2
+      id: 3351631706
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      - ElementName: DogMovement
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Charactrers\DogMovement
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: DogSad
+      guid: ffd13f196a7a914894f499531a1cff1b
+      id: 1773922643
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      - ElementName: DogSad
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Charactrers\DogSad
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: DoorClose
+      guid: f23bb50b2ee85a4d893aec5b2f8117da
+      id: 3638457343
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: DoorClose
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\DoorClose
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: DoorOpen
+      guid: 88cd19ea4a91da438e29caf9651aba4c
+      id: 1404805401
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: DoorOpen
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\DoorOpen
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Effects
+      guid: b6a6c38c5dfc5f4595f6731432330a2b
+      id: 1942696649
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Effects
+        ObjectType: 4
+      Path: Default Work Unit\Master\SFX\Effects
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Electric
+      guid: 0e365e43d1a372468265c4120e0edf1f
+      id: 3250089732
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: Electric
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\Electric
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Explosion
+      guid: 15fc653b088afa4aabd528a976b528a1
+      id: 13776098
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Effects
+        ObjectType: 4
+      - ElementName: Explosion
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Effects\Explosion
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Fire
+      guid: b930689428e71b449840af7e1378d12d
+      id: 2678880713
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: Fire
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\Fire
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: GlassDestructible
+      guid: bf21472391981d4c912828ec778c5779
+      id: 3203961905
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Physics
+        ObjectType: 4
+      - ElementName: GlassDestructible
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Physics\GlassDestructible
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: LeftFootstep
+      guid: 17559d848f1c08448879b1bfb303d314
+      id: 3533277004
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      - ElementName: LeftFootstep
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Charactrers\LeftFootstep
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: MainMenuAmbience
+      guid: ae139bf61b97f641a0ee6010cfc30048
+      id: 2768194115
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: UI
+        ObjectType: 4
+      - ElementName: MainMenuAmbience
+        ObjectType: 3
+      Path: Default Work Unit\Master\UI\MainMenuAmbience
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: MainMenuMusic
+      guid: cd3660807340784abd78c35fe99aacd5
+      id: 1991862712
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: UI
+        ObjectType: 4
+      - ElementName: MainMenuMusic
+        ObjectType: 3
+      Path: Default Work Unit\Master\UI\MainMenuMusic
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Master
+      guid: 24f6b88e31a10c48b3651abd6e11f311
+      id: 4056684167
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      Path: Default Work Unit\Master
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: MetalCollision
+      guid: fd7fc3e633aa9f46ba62a762a16acc26
+      id: 3274863822
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Physics
+        ObjectType: 4
+      - ElementName: MetalCollision
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Physics\MetalCollision
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music
+      guid: 733f64285c81d34091df99e031a281e3
+      id: 3991942870
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Music
+        ObjectType: 3
+      Path: Default Work Unit\Master\Music\Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music
+      guid: 39096603e518b34085d821bfb8312b3f
+      id: 3991942870
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: Music
+        ObjectType: 4
+      Path: Default Work Unit\Master\Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Object
+      guid: 1350fc1df2c91643ad022f359d011eff
+      id: 3055412916
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      Path: Default Work Unit\Master\SFX\Object
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Pause
+      guid: 785ec03ea9d4bc4e87633ace19fd7b71
+      id: 3092587493
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: Pause
+        ObjectType: 3
+      Path: Default Work Unit\Master\Pause
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Physics
+      guid: 7dbf707ff45479498edd6d909618e072
+      id: 445639444
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Physics
+        ObjectType: 4
+      Path: Default Work Unit\Master\SFX\Physics
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Pickup
+      guid: 97c4dc806d5d3a48a4c027e82b5bc51e
+      id: 3978245845
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      - ElementName: Pickup
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Charactrers\Pickup
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: PlasticCollision
+      guid: 47272fe3f76e3b46973f81b5ac8ab93b
+      id: 4063327017
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Physics
+        ObjectType: 4
+      - ElementName: PlasticCollision
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Physics\PlasticCollision
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: PorslineCollision
+      guid: 255f0f287b3c944f9ea69921228e87de
+      id: 3805168171
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Physics
+        ObjectType: 4
+      - ElementName: PorslineCollision
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Physics\PorslineCollision
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: PorslineDestructible
+      guid: 06bccc03433c9a44bba480e87e0ba59a
+      id: 1506829895
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Physics
+        ObjectType: 4
+      - ElementName: PorslineDestructible
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Physics\PorslineDestructible
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: PuzzleComplete
+      guid: d1f436c90b3b05419484044af7ba4da8
+      id: 2628769756
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: PuzzleComplete
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\PuzzleComplete
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: PuzzleInsert
+      guid: 2def9c200d133d4bbce558d0c518dbff
+      id: 570868666
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: PuzzleInsert
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\PuzzleInsert
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: PuzzleOpening
+      guid: e15cd4215dab8f4baa7d3df61f71e273
+      id: 3534035855
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: PuzzleOpening
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\PuzzleOpening
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: QuitGame
+      guid: 167eef5714632847960e85f0b1a9a4b3
+      id: 2380457374
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: QuitGame
+        ObjectType: 3
+      Path: Default Work Unit\Master\QuitGame
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: RadioOff
+      guid: 310bd868915f0d48982c3bff2a6f9ad7
+      id: 4221175997
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: RadioOff
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\RadioOff
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: RadioOn
+      guid: bd2dbf1ed2d70e4ebbbb5162c9034901
+      id: 4245784721
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: RadioOn
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\RadioOn
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: RightFootstep
+      guid: cba7d8a7127edd40bd5959da21608425
+      id: 606418267
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Charactrers
+        ObjectType: 4
+      - ElementName: RightFootstep
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Charactrers\RightFootstep
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Rumble
+      guid: 928dbfcd1645a047bcc2762186adffd8
+      id: 157639802
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Effects
+        ObjectType: 4
+      - ElementName: Rumble
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Effects\Rumble
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: SFX
+      guid: e13d9b2e08c20e4a812e02d5ad0da6b0
+      id: 393239870
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      Path: Default Work Unit\Master\SFX
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: StaticNoise
+      guid: 6f025e878494744fa758f42aecb86163
+      id: 3112514043
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: StaticNoise
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\StaticNoise
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: TerminalInteraction
+      guid: 54a99dfb4d740f41b5ea93d0dd562509
+      id: 3876079251
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Effects
+        ObjectType: 4
+      - ElementName: TerminalInteraction
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Effects\TerminalInteraction
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: UI
+      guid: ee04fb2e8af6654bb64fe47f66d0bac0
+      id: 1551306167
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: UI
+        ObjectType: 4
+      Path: Default Work Unit\Master\UI
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Unpause
+      guid: dc8f2e8924d71f42b412e93f0d68635b
+      id: 3412868374
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: Unpause
+        ObjectType: 3
+      Path: Default Work Unit\Master\Unpause
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: VendingMachineButton
+      guid: 8a4eed247235a54fa8dcde0cc643067c
+      id: 2801396123
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: VendingMachineButton
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\VendingMachineButton
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: VendingMachineDispens
+      guid: 1d984092287b04408b6c99b740d6594b
+      id: 1319057753
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: Object
+        ObjectType: 4
+      - ElementName: VendingMachineDispens
+        ObjectType: 3
+      Path: Default Work Unit\Master\SFX\Object\VendingMachineDispens
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: VO
+      guid: 540ba25f80c1cb42a0d426d5186211a4
+      id: 1534528548
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master
+        ObjectType: 4
+      - ElementName: VO
+        ObjectType: 4
+      Path: Default Work Unit\Master\VO
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: e109b128a7fe114086b2cc40d54a7d85
+    GuidInternal: 
+    m_lastTime: -8586098918111753105
+    List:
+    - name: AmbientVolume
+      guid: dfb76fcc3a5fe6498fc9b13c075387b5
+      id: 3546521921
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Options
+        ObjectType: 4
+      - ElementName: AmbientVolume
+        ObjectType: 13
+      Path: Default Work Unit\Options\AmbientVolume
+    - name: EffectsVolume
+      guid: 668993086d0003479c0596279e491d1a
+      id: 640585335
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Options
+        ObjectType: 4
+      - ElementName: EffectsVolume
+        ObjectType: 13
+      Path: Default Work Unit\Options\EffectsVolume
+    - name: Force
+      guid: f74989abb620634da3edf91d50cd2614
+      id: 4240233774
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Force
+        ObjectType: 13
+      Path: Default Work Unit\Force
+    - name: MasterVolume
+      guid: 1cf0487736a4fe499b76b02f23b5a0ef
+      id: 2918011349
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Options
+        ObjectType: 4
+      - ElementName: MasterVolume
+        ObjectType: 13
+      Path: Default Work Unit\Options\MasterVolume
+    - name: MusicVolume
+      guid: 667c607a5bed6140a9501b83788aa069
+      id: 2346531308
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Options
+        ObjectType: 4
+      - ElementName: MusicVolume
+        ObjectType: 13
+      Path: Default Work Unit\Options\MusicVolume
+    - name: Options
+      guid: 19da27914f785c418172e92d653e4c84
+      id: 4141130937
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Options
+        ObjectType: 4
+      Path: Default Work Unit\Options
+    - name: VelocityRESA
+      guid: fa7843c2f4fe904c99a7e6c51f255eaf
+      id: 2366934999
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: VelocityRESA
+        ObjectType: 13
+      Path: Default Work Unit\VelocityRESA
+    - name: VO_Ducker
+      guid: 23663f64e5025c4b822ede7f9f177e07
+      id: 4289149801
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: VO_Ducker
+        ObjectType: 13
+      Path: Default Work Unit\VO_Ducker
+    - name: VoiceVolume
+      guid: 3fca8fd88a8cf04aaf518626295cb167
+      id: 414646191
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Options
+        ObjectType: 4
+      - ElementName: VoiceVolume
+        ObjectType: 13
+      Path: Default Work Unit\Options\VoiceVolume
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: e1703057324cec499d2b38b65a9579fd
+    GuidInternal: 
+    m_lastTime: -8586104980532005549
+    List:
+    - name: Paused
+      guid: ca1e74c3040b7f468876dbc8bc373135
+      id: 319258907
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Paused
+        ObjectType: 9
+      Path: Default Work Unit\Paused
+      values:
+      - name: None
+        guid: c845378187b11f4088cdfa201d3527d9
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: Off
+        guid: 0e54b76c4061ef419ee18529394cdb2a
+        id: 930712164
+        PathAndIcons:
+        - ElementName: Off
+          ObjectType: 8
+      - name: On
+        guid: 467f9ae0dc6aa845b7dd997ece81063d
+        id: 1651971902
+        PathAndIcons:
+        - ElementName: On
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: Progress
+      guid: 529a4fb6fe04e143a7474e301898a1f0
+      id: 308635872
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Progress
+        ObjectType: 9
+      Path: Default Work Unit\Progress
+      values:
+      - name: None
+        guid: 819f21e36f39fb4abdeec1e2ee98bb87
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: Progress1
+        guid: 78400c4cf724684893cf66a2baf7ae42
+        id: 3584301201
+        PathAndIcons:
+        - ElementName: Progress1
+          ObjectType: 8
+      - name: Progress2
+        guid: d2fc01feae351a43b23e2972742aa43e
+        id: 3584301202
+        PathAndIcons:
+        - ElementName: Progress2
+          ObjectType: 8
+      - name: Progress3
+        guid: 14a9331e89175648be3c2c6bb07502b8
+        id: 3584301203
+        PathAndIcons:
+        - ElementName: Progress3
+          ObjectType: 8
+      - name: Progress4
+        guid: 4b7648f7529258419ee12d55d3966a6a
+        id: 3584301204
+        PathAndIcons:
+        - ElementName: Progress4
+          ObjectType: 8
+      - name: Progress5
+        guid: 3f09ae59bb4e09408250dd69603ff820
+        id: 3584301205
+        PathAndIcons:
+        - ElementName: Progress5
+          ObjectType: 8
+      - name: Progress6
+        guid: 8062a740a9df6a4bbb1b505e21986cf4
+        id: 3584301206
+        PathAndIcons:
+        - ElementName: Progress6
+          ObjectType: 8
+      - name: Progress7
+        guid: d112dc4e2088d34080a23e30eda4cef2
+        id: 3584301207
+        PathAndIcons:
+        - ElementName: Progress7
+          ObjectType: 8
+      - name: Progress8
+        guid: 262c42771a01c04a80316b327fa0d1b5
+        id: 3584301208
+        PathAndIcons:
+        - ElementName: Progress8
+          ObjectType: 8
+      - name: Progress9
+        guid: fcb118343e8f86408e8adaa70a4c3ac7
+        id: 3584301209
+        PathAndIcons:
+        - ElementName: Progress9
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 7cce3cbf642f804d8c013edc70892797
+    GuidInternal: 
+    m_lastTime: -8586111173775952221
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 68edff1faa45fd44a401f6053331da1b
+    GuidInternal: 
+    m_lastTime: -8586111173775882411
+    List: []
+  ExpandedItems:
+  - /SpaceGame_WwiseProject
+  - /SpaceGame_WwiseProject/Events
+  - /SpaceGame_WwiseProject/Events/Default Work Unit
+  - /SpaceGame_WwiseProject/Events/Default Work Unit/Master
+  - /SpaceGame_WwiseProject/Events/Default Work Unit/Master/SFX
+  - /SpaceGame_WwiseProject/Events/Default Work Unit/Master/SFX/Object
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

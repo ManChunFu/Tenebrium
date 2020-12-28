@@ -1,0 +1,65 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	308635872	Progress			\Default Work Unit\Progress	
+	319258907	Paused			\Default Work Unit\Paused	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Progress			
+	3584301201	Progress1	Progress			
+	3584301202	Progress2	Progress			
+	3584301203	Progress3	Progress			
+	3584301204	Progress4	Progress			
+	3584301205	Progress5	Progress			
+	3584301206	Progress6	Progress			
+	3584301207	Progress7	Progress			
+	3584301208	Progress8	Progress			
+	3584301209	Progress9	Progress			
+	748895195	None	Paused			
+	930712164	Off	Paused			
+	1651971902	On	Paused			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	93388709	Progress9	Progress	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VO		
+	95336019	Progress6	Progress	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VO		
+	144387715	Progress8	Progress	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VO		
+	544933181	Progress7	Progress	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\VO		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	414646191	VoiceVolume			\Default Work Unit\Options\VoiceVolume	
+	640585335	EffectsVolume			\Default Work Unit\Options\EffectsVolume	
+	2346531308	MusicVolume			\Default Work Unit\Options\MusicVolume	
+	2918011349	MasterVolume			\Default Work Unit\Options\MasterVolume	
+	3546521921	AmbientVolume			\Default Work Unit\Options\AmbientVolume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Ambience	
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	445639444	Physics			\Default Work Unit\Master Audio Bus\SFX\Physics	
+	1534528548	VO			\Default Work Unit\Master Audio Bus\VO	
+	1557941045	Characters			\Default Work Unit\Master Audio Bus\SFX\Characters	
+	1695690031	Objects			\Default Work Unit\Master Audio Bus\SFX\Objects	
+	1886858547	AI			\Default Work Unit\Master Audio Bus\VO\AI	
+	1942696649	Effects			\Default Work Unit\Master Audio Bus\SFX\Effects	
+	2739838641	Drone			\Default Work Unit\Master Audio Bus\Music\Drone	
+	3469407730	LiuYang			\Default Work Unit\Master Audio Bus\VO\LiuYang	
+	3479155863	MainMusic			\Default Work Unit\Master Audio Bus\Music\MainMusic	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Master Audio Bus\Reverb	
+	357718954	Delay			\Default Work Unit\Master Audio Bus\Delay	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	128365208	Wwise_Compressor_(Custom)	Wwise Compressor			
+	225799029	Wwise_Compressor_(Custom)	Wwise Compressor			
+	621935717	Wwise_Delay_(Custom)	Wwise Delay			
+	757803973	Wwise_Meter_(Custom)	Wwise Meter			
+	848633888	Wwise_Compressor_(Custom)	Wwise Compressor			
+	855971693	Wwise_Compressor_(Custom)	Wwise Compressor			
+	925709721	Wwise_Compressor_(Custom)	Wwise Compressor			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

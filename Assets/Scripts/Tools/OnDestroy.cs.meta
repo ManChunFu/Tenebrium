@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2431486478cce604f98c9839bab4f0cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Fractured: {fileID: 8479238398170078077, guid: 6ae64b40859a39b43aa22c97da9ef027,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{71059685-7CED-4026-A006-2F3BA9DFD0F6}" SchemaVersion="97">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{71059685-7CED-4026-A006-2F3BA9DFD0F6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<PropertyList>
+						<Property Name="BusVolume" Type="Real64">
+							<RTPCList>
+								<RTPC Name="" ID="{2DBF5927-9892-4FC8-8BFE-0F2A0A761D46}" ShortID="695456819">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="MasterVolume" ID="{7748F01C-A436-49FE-9B76-B02F23B5A0EF}" WorkUnitID="{28B109E1-FEA7-4011-86B2-CC40D54A7D85}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{ED18AE0C-CCCF-410C-919C-FAEC032B1437}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="3"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-200</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>0</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{5F63B512-8C2B-4632-8557-01EC233E16F2}" WorkUnitID="{A363C8AC-A415-4677-90D4-BD8E9CC628B0}"/>
+						</Reference>
+						<Reference Name="Effect0">
+							<Custom>
+								<Effect Name="Wwise_Compressor_(Custom)" ID="{04BB8F01-A8B1-4C70-B021-B5AC4B8F9944}" ShortID="848633888" PluginName="Wwise Compressor" CompanyID="0" PluginID="108" PluginType="3">
+									<PropertyList>
+										<Property Name="Ratio" Type="Real32" Value="50"/>
+									</PropertyList>
+								</Effect>
+							</Custom>
+						</Reference>
+						<Reference Name="Effect1">
+							<Custom>
+								<Effect Name="Wwise_Compressor_(Custom)" ID="{0EA1395B-0CFF-4755-BEBB-14BEF3DFD46C}" ShortID="855971693" PluginName="Wwise Compressor" CompanyID="0" PluginID="108" PluginType="3">
+									<PropertyList>
+										<Property Name="AttackTime" Type="Real32" Value="0.2"/>
+										<Property Name="Ratio" Type="Real32" Value="2.1"/>
+										<Property Name="ReleaseTime" Type="Real32" Value="0.6"/>
+										<Property Name="Threshold" Type="Real32" Value="-15"/>
+									</PropertyList>
+								</Effect>
+							</Custom>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="VO" ID="{E5833BE6-2F56-4C4D-808A-88E3AEB52D5F}">
+							<PropertyList>
+								<Property Name="BusVolume" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{816ED78D-409A-4B8E-9CE8-DF3921F3F64A}" ShortID="309236451">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="VoiceVolume" ID="{D88FCA3F-8C8A-4AF0-AF51-8626295CB167}" WorkUnitID="{28B109E1-FEA7-4011-86B2-CC40D54A7D85}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{6E0CA42F-C32F-4CCB-9A45-C149F3CD5B1B}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>5</Flags>
+													</Point>
+													<Point>
+														<XPos>100</XPos>
+														<YPos>0</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+								<Property Name="Color" Type="int16" Value="2"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Effect0">
+									<Custom>
+										<Effect Name="Wwise_Compressor_(Custom)" ID="{A56F0680-76A4-4405-9ABD-3B6055212DAC}" ShortID="925709721" PluginName="Wwise Compressor" CompanyID="0" PluginID="108" PluginType="3">
+											<PropertyList>
+												<Property Name="Ratio" Type="Real32" Value="4.1"/>
+												<Property Name="ReleaseTime" Type="Real32" Value="0.8"/>
+												<Property Name="Threshold" Type="Real32" Value="-20"/>
+											</PropertyList>
+										</Effect>
+									</Custom>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Bus Name="AI" ID="{DD97A933-2DFF-45E7-8E71-C90F257B2360}"/>
+								<Bus Name="LiuYang" ID="{ACC927B0-E2E5-46B3-A031-A43FC0C4EEAC}">
+									<ReferenceList>
+										<Reference Name="Effect0">
+											<Custom>
+												<Effect Name="Wwise_Meter_(Custom)" ID="{966A4439-688A-450E-99B4-69DBB80127D1}" ShortID="757803973" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+													<PropertyList>
+														<Property Name="MeterMode" Type="int32" Value="1"/>
+														<Property Name="ReleaseTime" Type="Real32" Value="0.21"/>
+													</PropertyList>
+													<PluginData>
+	<GameParameter Name="VO_Ducker" ID="{643F6623-02E5-4B5C-822E-DE7F9F177E07}"/>
+</PluginData>
+												</Effect>
+											</Custom>
+										</Reference>
+									</ReferenceList>
+								</Bus>
+							</ChildrenList>
+							<StateInfo>
+								<StateGroupList>
+									<StateGroupInfo>
+										<StateGroupRef Name="Progress" ID="{B64F9A52-04FE-43E1-A747-4E301898A1F0}"/>
+									</StateGroupInfo>
+								</StateGroupList>
+								<CustomStateList>
+									<CustomState>
+										<StateRef Name="Progress5" ID="{59AE093F-4EBB-4009-8250-DD69603FF820}"/>
+										<CustomState Name="" ID="{04CFA879-30AC-4D22-9108-BB3FAFBFB221}" ShortID="291190501"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Progress9" ID="{3418B1FC-8F3E-4086-8E8A-DAA70A4C3AC7}"/>
+										<CustomState Name="" ID="{3E997A5D-9CA7-4DFD-8D7F-590BD3CA3538}" ShortID="93388709">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64" Value="-108"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Progress7" ID="{4EDC12D1-8820-40D3-80A2-3E30EDA4CEF2}"/>
+										<CustomState Name="" ID="{81F914C5-1C05-4B77-8BD2-4C86957261DB}" ShortID="544933181">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64" Value="-108"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Progress4" ID="{F748764B-9252-4158-9EE1-2D55D3966A6A}"/>
+										<CustomState Name="" ID="{A5BE0A45-7864-44DF-A0FF-C597D4E134FD}" ShortID="92710804"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Progress2" ID="{FE01FCD2-35AE-431A-B23E-2972742AA43E}"/>
+										<CustomState Name="" ID="{144C18A7-C264-4C6F-AC85-422583963F1A}" ShortID="1071938540"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Progress3" ID="{1E33A914-1789-4856-BE3C-2C6BB07502B8}"/>
+										<CustomState Name="" ID="{9BD89745-4A53-4EC4-8529-464F98497E24}" ShortID="137474225"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Progress1" ID="{4C0C4078-24F7-4868-93CF-66A2BAF7AE42}"/>
+										<CustomState Name="" ID="{E132055A-5560-4E2D-8E46-61EA68D71B81}" ShortID="636863526"/>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Progress8" ID="{77422C26-011A-4AC0-8031-6B327FA0D1B5}"/>
+										<CustomState Name="" ID="{C59D5CC4-0E33-4A4D-995C-38960BC2B778}" ShortID="144387715">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64" Value="-108"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="Progress6" ID="{40A76280-DFA9-4B6A-BB1B-505E21986CF4}"/>
+										<CustomState Name="" ID="{0846FF4E-4510-4FB3-9589-7990886F7501}" ShortID="95336019">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64" Value="-108"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+								</CustomStateList>
+							</StateInfo>
+						</Bus>
+						<Bus Name="Ambience" ID="{2FF58FB2-4C9C-4C84-854E-E0B8527BA7AA}">
+							<PropertyList>
+								<Property Name="BusVolume" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{D923B20D-17D3-48D5-85B0-BA4661AA7326}" ShortID="60360374">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="AmbientVolume" ID="{CC6FB7DF-5F3A-49E6-8FC9-B13C075387B5}" WorkUnitID="{28B109E1-FEA7-4011-86B2-CC40D54A7D85}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{EFBF16A2-29D8-4504-B148-5678919CAA9C}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>5</Flags>
+													</Point>
+													<Point>
+														<XPos>100</XPos>
+														<YPos>0</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+								<Property Name="Color" Type="int16" Value="4"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Effect0">
+									<Custom>
+										<Effect Name="Wwise_Compressor_(Custom)" ID="{E5818D65-3969-4B20-B320-ACA9DC458DA4}" ShortID="128365208" PluginName="Wwise Compressor" CompanyID="0" PluginID="108" PluginType="3">
+											<PropertyList>
+												<Property Name="Ratio" Type="Real32" Value="7.1"/>
+												<Property Name="Threshold" Type="Real32" Value="-16"/>
+											</PropertyList>
+										</Effect>
+									</Custom>
+								</Reference>
+							</ReferenceList>
+						</Bus>
+						<Bus Name="SFX" ID="{EF47B4CE-12AA-4011-ACD0-424D9B3A2154}">
+							<PropertyList>
+								<Property Name="BusVolume" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{EBE70B9E-0E2C-4100-81AF-0A8C233CD5FD}" ShortID="680609557">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="EffectsVolume" ID="{08938966-006D-4703-9C05-96279E491D1A}" WorkUnitID="{28B109E1-FEA7-4011-86B2-CC40D54A7D85}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{9A76E32E-1836-4732-AF38-45C79A9A338B}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>5</Flags>
+													</Point>
+													<Point>
+														<XPos>100</XPos>
+														<YPos>0</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+								<Property Name="Color" Type="int16" Value="10"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Effect0">
+									<Custom>
+										<Effect Name="Wwise_Compressor_(Custom)" ID="{1485AD4B-248D-4444-B2BD-77962A3E21A7}" ShortID="225799029" PluginName="Wwise Compressor" CompanyID="0" PluginID="108" PluginType="3">
+											<PropertyList>
+												<Property Name="AttackTime" Type="Real32" Value="0.3"/>
+												<Property Name="Ratio" Type="Real32" Value="2.1"/>
+												<Property Name="ReleaseTime" Type="Real32" Value="0.9"/>
+												<Property Name="Threshold" Type="Real32" Value="-10"/>
+											</PropertyList>
+										</Effect>
+									</Custom>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Bus Name="Characters" ID="{5A808FAF-2817-4DBF-BB47-E31DC3E07CA2}"/>
+								<Bus Name="Physics" ID="{477A5117-35A1-4CDA-94D8-A7744FED0F40}"/>
+								<Bus Name="Objects" ID="{DE7E7980-17AA-4211-A481-9F3703CCB8D0}"/>
+								<Bus Name="Effects" ID="{07648C18-0B5F-41BF-BC46-E08AF8DADB13}"/>
+							</ChildrenList>
+						</Bus>
+						<Bus Name="Music" ID="{20E163FE-2539-4804-8489-5225FE57EE85}">
+							<PropertyList>
+								<Property Name="BusVolume" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{29E6EC16-57F7-46ED-A0C9-C636D72AA642}" ShortID="323457118">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="MusicVolume" ID="{7A607C66-ED5B-4061-A950-1B83788AA069}" WorkUnitID="{28B109E1-FEA7-4011-86B2-CC40D54A7D85}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{F4CE5402-4132-4183-BD95-3CAC72384A41}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>5</Flags>
+													</Point>
+													<Point>
+														<XPos>100</XPos>
+														<YPos>0</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+								<Property Name="Color" Type="int16" Value="13"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Bus Name="MainMusic" ID="{9C41451C-FDDE-4515-847C-6DC3364F5119}">
+									<DuckingList>
+										<DuckItem>
+											<BusRef Name="Drone" ID="{5F53870A-1F82-497D-97B2-F963ED981E83}"/>
+											<DuckingParam>
+												<Volume>-96</Volume>
+												<FadeInTime>5</FadeInTime>
+												<FadeOutTime>5</FadeOutTime>
+												<FadeCurve>FadeLog2</FadeCurve>
+												<TargetProp>BusVolume</TargetProp>
+											</DuckingParam>
+										</DuckItem>
+									</DuckingList>
+								</Bus>
+								<Bus Name="Drone" ID="{5F53870A-1F82-497D-97B2-F963ED981E83}"/>
+							</ChildrenList>
+						</Bus>
+						<AuxBus Name="Reverb" ID="{EA7BFB29-31CE-451D-8485-771EBECB4F75}">
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+									<ObjectRef Name="Have_U_Ever_Been_Outside" ID="{FE29AE8D-FD86-4652-A95D-68D32F5760EC}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+								</Reference>
+							</ReferenceList>
+						</AuxBus>
+						<AuxBus Name="Delay" ID="{6CDEDC5B-68C4-4F6E-B14C-05DCDEE16DB6}">
+							<PropertyList>
+								<Property Name="BusVolume" Type="Real64">
+									<ValueList>
+										<Value>-10</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Effect0">
+									<Custom>
+										<Effect Name="Wwise_Delay_(Custom)" ID="{3324A653-34D0-499A-AB13-BA3AC4FF8A7E}" ShortID="621935717" PluginName="Wwise Delay" CompanyID="0" PluginID="106" PluginType="3">
+											<PropertyList>
+												<Property Name="DelayTime" Type="Real32" Value="0.15"/>
+												<Property Name="Feedback" Type="Real32" Value="5.5"/>
+												<Property Name="WetDryMix" Type="Real32" Value="100"/>
+											</PropertyList>
+										</Effect>
+									</Custom>
+								</Reference>
+							</ReferenceList>
+						</AuxBus>
+					</ChildrenList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>
